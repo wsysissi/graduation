@@ -1,0 +1,949 @@
+title	accession_no	organism	family	start_ad	end_ad	lenth
+AB038186.1  Populus nigra chloroplast matK gene for maturase K, complete cds. 	AB038186 	Populus nigra 	Salicaceae	1	1533	1533
+AB233827.1  Casearia sp. Tokuoka NC052 chloroplast matK gene for maturase K, 	AB233827 	Casearia sp. Tokuoka NC052 	Salicaceae	1	1202	1202
+AB233828.1  Dovyalis macrocalyx chloroplast matK gene for maturase K, partial 	AB233828 	Dovyalis macrocalyx 	Salicaceae	1	1208	1208
+AB233829.1  Flacourtia indica chloroplast matK gene for maturase K, partial cds. 	AB233829 	Flacourtia indica 	Salicaceae	1	1202	1202
+AB233830.1  Homalium foetidum chloroplast matK gene for maturase K, partial cds. 	AB233830 	Homalium foetidum 	Salicaceae	1	1202	1202
+AB233831.1  Idesia polycarpa chloroplast matK gene for maturase K, partial cds. 	AB233831 	Idesia polycarpa 	Salicaceae	1	1202	1202
+AB233832.1  Lunania parviflora chloroplast matK gene for maturase K, partial 	AB233832 	Lunania parviflora 	Salicaceae	1	1202	1202
+AB233833.1  Scolopia spinosa chloroplast matK gene for maturase K, partial cds. 	AB233833 	Scolopia spinosa 	Salicaceae	1	1202	1202
+AB233834.1  Xylosma congesta chloroplast matK gene for maturase K, partial cds. 	AB233834 	Xylosma congesta 	Salicaceae	1	1202	1202
+AB530660.1  Salix arbutifolia chloroplast matK gene for maturase, partial cds, 	AB530660 	Salix arbutifolia 	Salicaceae	1	1183	1183
+AB530661.1  Salix arbutifolia chloroplast matK gene for maturase, partial cds, 	AB530661 	Salix arbutifolia 	Salicaceae	1	1183	1183
+AB530662.1  Salix arbutifolia chloroplast matK gene for maturase, partial cds, 	AB530662 	Salix arbutifolia 	Salicaceae	1	1183	1183
+AB530663.1  Salix arbutifolia chloroplast matK gene for maturase, partial cds, 	AB530663 	Salix arbutifolia 	Salicaceae	1	1183	1183
+AB530664.1  Salix arbutifolia chloroplast matK gene for maturase, partial cds, 	AB530664 	Salix arbutifolia 	Salicaceae	1	1183	1183
+AB530665.1  Salix arbutifolia chloroplast matK gene for maturase, partial cds, 	AB530665 	Salix arbutifolia 	Salicaceae	1	1183	1183
+AB543615.1  Salix nummularia chloroplast matK gene for maturase K, partial cds. 	AB543615 	Salix nummularia 	Salicaceae	1	1183	1183
+AB543617.1  Salix hukaoana chloroplast matK gene for maturase K, partial cds. 	AB543617 	Salix hukaoana 	Salicaceae	1	1183	1183
+AJ506082.1  Populus tremula chloroplast matK gene for trnK maturase, isolate 01 	AJ506082 	Populus tremula 	Salicaceae	750	2282	1533
+AJ506083.1  Populus tremula chloroplast matK gene for trnK maturase, isolate 08 	AJ506083 	Populus tremula 	Salicaceae	750	2282	1533
+AJ506084.1  Populus tremula chloroplast matK gene for trnK maturase, isolate 08 	AJ506084 	Populus tremula 	Salicaceae	750	2282	1533
+AJ506085.1  Populus tremula chloroplast matK gene for trnK maturase, isolate 24 	AJ506085 	Populus tremula 	Salicaceae	750	2282	1533
+AJ506086.1  Populus tremula chloroplast matK gene for trnK maturase, isolate 04 	AJ506086 	Populus tremula 	Salicaceae	750	2282	1533
+AJ506087.1  Populus tremula chloroplast matK gene for trnK maturase, isolate 17 	AJ506087 	Populus tremula 	Salicaceae	750	2282	1533
+AJ506088.1  Populus tremula chloroplast matK gene for trnK maturase, isolate 23 	AJ506088 	Populus tremula 	Salicaceae	750	2282	1533
+AJ849580.1  Salix alba chloroplast partial tRNA-Lys gene intron and partial matK 	AJ849580 	Salix alba 	Salicaceae	290	623	334
+AJ849581.1  Salix fragilis chloroplast partial tRNA-Lys gene intron and partial 	AJ849581 	Salix fragilis 	Salicaceae	290	623	334
+AJ849583.1  Salix babylonica chloroplast partial tRNA-Lys gene intron and 	AJ849583 	Salix babylonica 	Salicaceae	289	622	334
+AJ849584.1  Salix purpurea chloroplast partial tRNA-Lys gene intron and partial 	AJ849584 	Salix purpurea 	Salicaceae	289	622	334
+AJ849585.1  Salix triandra chloroplast partial tRNA-Lys gene intron and partial 	AJ849585 	Salix triandra 	Salicaceae	289	622	334
+AJ849586.1  Salix viminalis chloroplast partial tRNA-Lys gene intron and partial 	AJ849586 	Salix viminalis 	Salicaceae	289	622	334
+AJ849588.1  Salix alba chloroplast partial tRNA-Lys gene intron and partial matK 	AJ849588 	Salix alba 	Salicaceae	29	788	760
+AJ849589.1  Salix fragilis chloroplast partial tRNA-Lys gene intron and partial 	AJ849589 	Salix fragilis 	Salicaceae	29	788	760
+AJ849591.1  Salix triandra chloroplast partial tRNA-Lys gene intron and partial 	AJ849591 	Salix triandra 	Salicaceae	29	788	760
+AJ849592.1  Salix purpurea chloroplast partial tRNA-Lys gene intron and partial 	AJ849592 	Salix purpurea 	Salicaceae	29	788	760
+AJ849593.1  Salix babylonica chloroplast partial tRNA-Lys gene intron and 	AJ849593 	Salix babylonica 	Salicaceae	29	788	760
+AJ849594.1  Salix viminalis chloroplast partial tRNA-Lys gene intron and partial 	AJ849594 	Salix viminalis 	Salicaceae	29	788	760
+AM889739.1  Populus alba chloroplast partial matK gene for maturase K. 	AM889739 	Populus alba 	Salicaceae	1	836	836
+AM889740.1  Populus tremula chloroplast partial matK gene for maturase K. 	AM889740 	Populus tremula 	Salicaceae	1	836	836
+AY177666.1  Populus tomentosa trnK gene, intron; and maturase (matK) gene, 	AY177666 	Populus tomentosa 	Salicaceae	74	1606	1533
+AY669057.1  Salix purpurea maturase (MatK) gene, complete cds; chloroplast. 	AY669057 	Salix purpurea 	Salicaceae	786	2318	1533
+AY669058.1  Salix eriocephala maturase (MatK) gene, complete cds; chloroplast. 	AY669058 	Salix eriocephala 	Salicaceae	761	2293	1533
+AY935927.1  Casearia javitensis isolate 33 maturase K (matK) gene, partial cds; 	AY935927 	Casearia javitensis 	Salicaceae	1	1203	1203
+DQ060264.1  Salix melanopsis isolate 2895-Skagit maturase K (matK) gene, partial 	DQ060264 	Salix melanopsis 	Salicaceae	1	823	823
+DQ060265.1  Salix melanopsis isolate 60A-Naches maturase K (matK) gene, partial 	DQ060265 	Salix melanopsis 	Salicaceae	1	823	823
+DQ060267.1  Salix melanopsis isolate 37A-upStJoe maturase K-like (matK) gene, 	DQ060267 	Salix melanopsis 	Salicaceae	1	829	829
+DQ060268.1  Salix melanopsis isolate 40B-Lochsa maturase K-like (matK) gene, 	DQ060268 	Salix melanopsis 	Salicaceae	1	829	829
+DQ060269.1  Salix melanopsis isolate 71A-NFClear maturase K-like (matK) gene, 	DQ060269 	Salix melanopsis 	Salicaceae	1	829	829
+DQ060270.1  Salix melanopsis isolate 7084A-out maturase K-like (matK) gene, 	DQ060270 	Salix melanopsis 	Salicaceae	1	823	823
+EF135498.1  Abatia parviflora maturase K (matK) gene, partial cds; chloroplast. 	EF135498 	Abatia parviflora 	Salicaceae	1	1129	1129
+EF135516.1  Casearia nitida maturase K (matK) gene, partial cds; chloroplast. 	EF135516 	Casearia nitida 	Salicaceae	1	1148	1148
+EF135529.1  Dovyalis rhamnoides maturase K (matK) gene, partial cds; 	EF135529 	Dovyalis rhamnoides 	Salicaceae	1	1135	1135
+EF135541.1  Flacourtia jangomas maturase K (matK) gene, partial cds; 	EF135541 	Flacourtia jangomas 	Salicaceae	1	1129	1129
+EF135546.1  Hasseltia floribunda maturase K (matK) gene, partial cds; 	EF135546 	Hasseltia floribunda 	Salicaceae	1	1108	1108
+EF135561.1  Lunania parviflora maturase K (matK) gene, partial cds; chloroplast. 	EF135561 	Lunania parviflora 	Salicaceae	1	1132	1132
+EF135586.1  Poliothyrsis sinensis maturase K (matK) gene, partial cds; 	EF135586 	Poliothyrsis sinensis 	Salicaceae	1	1133	1133
+EF135587.1  Populus maximowiczii maturase K (matK) gene, partial cds; 	EF135587 	Populus maximowiczii 	Salicaceae	1	1135	1135
+EF135588.1  Prockia crucis maturase K (matK) gene, partial cds; chloroplast. 	EF135588 	Prockia crucis 	Salicaceae	1	1126	1126
+EF135592.1  Salix reticulata maturase K (matK) gene, partial cds; chloroplast. 	EF135592 	Salix reticulata 	Salicaceae	1	1119	1119
+EF135594.1  Scyphostegia borneensis maturase K (matK) gene, partial cds; 	EF135594 	Scyphostegia borneensis 	Salicaceae	1	1123	1123
+EU749347.1  Populus balsamifera voucher OAC:AP376 maturase K (matK) gene, 	EU749347 	Populus balsamifera 	Salicaceae	1	625	625
+EU749348.1  Populus balsamifera voucher OAC:JAG244 maturase K (matK) gene, 	EU749348 	Populus balsamifera 	Salicaceae	1	790	790
+EU749349.1  Populus deltoides voucher OAC:JAG061 maturase K (matK) gene, partial 	EU749349 	Populus deltoides 	Salicaceae	1	605	605
+EU749350.1  Populus deltoides voucher OAC:JAG391 maturase K (matK) gene, partial 	EU749350 	Populus deltoides 	Salicaceae	1	785	785
+EU749351.1  Populus deltoides voucher OAC:JAG435 maturase K (matK) gene, partial 	EU749351 	Populus deltoides 	Salicaceae	1	814	814
+EU749352.1  Populus grandidentata voucher OAC:AP425 maturase K (matK) gene, 	EU749352 	Populus grandidentata 	Salicaceae	1	703	703
+EU749353.1  Populus grandidentata voucher OAC:JAG219 maturase K (matK) gene, 	EU749353 	Populus grandidentata 	Salicaceae	1	696	696
+EU749354.1  Populus grandidentata voucher OAC:JAG339 maturase K (matK) gene, 	EU749354 	Populus grandidentata 	Salicaceae	1	744	744
+EU749355.1  Populus tremuloides voucher OAC:AP380 maturase K (matK) gene, 	EU749355 	Populus tremuloides 	Salicaceae	1	784	784
+EU749356.1  Populus tremuloides voucher OAC:JAG205 maturase K (matK) gene, 	EU749356 	Populus tremuloides 	Salicaceae	1	658	658
+EU749357.1  Populus tremuloides voucher OAC:JAG277 maturase K (matK) gene, 	EU749357 	Populus tremuloides 	Salicaceae	1	760	760
+EU749389.1  Salix babylonica voucher OAC:AP378 maturase K (matK) gene, partial 	EU749389 	Salix babylonica 	Salicaceae	1	598	598
+EU749390.1  Salix babylonica voucher OAC:JAG369 maturase K (matK) gene, partial 	EU749390 	Salix babylonica 	Salicaceae	1	687	687
+EU749391.1  Salix eriocephala voucher OAC:AP155 maturase K (matK) gene, partial 	EU749391 	Salix eriocephala 	Salicaceae	1	729	729
+EU749392.1  Salix eriocephala voucher OAC:JAG321 maturase K (matK) gene, partial 	EU749392 	Salix eriocephala 	Salicaceae	1	751	751
+EU749393.1  Salix eriocephala voucher OAC:JAG345 maturase K (matK) gene, partial 	EU749393 	Salix eriocephala 	Salicaceae	1	770	770
+EU749394.1  Salix eriocephala voucher OAC:JAG392 maturase K (matK) gene, partial 	EU749394 	Salix eriocephala 	Salicaceae	1	832	832
+EU749395.1  Salix exigua voucher OAC:JAG325 maturase K (matK) gene, partial cds; 	EU749395 	Salix exigua 	Salicaceae	1	815	815
+EU749396.1  Salix exigua voucher OAC:JAG344 maturase K (matK) gene, partial cds; 	EU749396 	Salix exigua 	Salicaceae	1	797	797
+EU790669.1  Salix arctica voucher Chase 982 maturase K (matK) gene, partial cds; 	EU790669 	Salix arctica 	Salicaceae	1	1528	1528
+EU790670.1  Salix herbacea voucher Antilla 4306 maturase K (matK) gene, partial 	EU790670 	Salix herbacea 	Salicaceae	1	1528	1528
+EU790671.1  Salix herbacea voucher Roininen 6011 maturase K (matK) gene, partial 	EU790671 	Salix herbacea 	Salicaceae	1	1528	1528
+EU790672.1  Salix reticulata voucher Argus 13928c maturase K (matK) gene, 	EU790672 	Salix reticulata 	Salicaceae	1	1528	1528
+EU790673.1  Salix amygdaloides voucher Brunsfeld S.amyg5046 maturase K (matK) 	EU790673 	Salix amygdaloides 	Salicaceae	1	1528	1528
+EU790674.1  Salix floridana voucher Miller 6016 maturase K (matK) gene, partial 	EU790674 	Salix floridana 	Salicaceae	1	1528	1528
+EU790675.1  Salix acmophylla voucher Buechler S.acmo1 maturase K (matK) gene, 	EU790675 	Salix acmophylla 	Salicaceae	1	1528	1528
+EU790677.1  Salix alba voucher Antilla 7164 maturase K (matK) gene, partial cds; 	EU790677 	Salix alba 	Salicaceae	1	1528	1528
+EU790678.1  Salix chaenomeloides voucher Buechler chae2 maturase K-like (matK) 	EU790678 	Salix chaenomeloides 	Salicaceae	1	1528	1528
+EU790680.1  Salix lucida voucher Brunsfeld lasi5084-id maturase K (matK) gene, 	EU790680 	Salix lucida 	Salicaceae	1	1501	1501
+EU790681.1  Salix lucida voucher Brunsfeld 5025-pa maturase K (matK) gene, 	EU790681 	Salix lucida 	Salicaceae	1	1528	1528
+EU790683.1  Salix melanopsis voucher Brunsfeld 5075-mt maturase K-like (matK) 	EU790683 	Salix melanopsis 	Salicaceae	1	1469	1469
+EU790684.1  Salix pentandra voucher Antilla 1 maturase K-like (matK) gene, 	EU790684 	Salix pentandra 	Salicaceae	1	1528	1528
+EU790685.1  Salix pentandra voucher Roininen 2017 maturase K (matK) gene, 	EU790685 	Salix pentandra 	Salicaceae	1	1528	1528
+EU790686.1  Salix taxifolia voucher Brunsfeld 3008 maturase K (matK) gene, 	EU790686 	Salix taxifolia 	Salicaceae	1	1528	1528
+EU790687.1  Salix triandra voucher Antilla 127 maturase K (matK) gene, partial 	EU790687 	Salix triandra 	Salicaceae	1	1528	1528
+EU790689.1  Salix bebbiana voucher Brunsfeld 5018-pa maturase K (matK) gene, 	EU790689 	Salix bebbiana 	Salicaceae	1	1528	1528
+EU790691.1  Salix cordata voucher Brunsfeld 5040d-ny maturase K (matK) gene, 	EU790691 	Salix cordata 	Salicaceae	1	1528	1528
+EU790693.1  Salix discolor voucher Brunsfeld 6052-wi maturase K (matK) gene, 	EU790693 	Salix discolor 	Salicaceae	1	1528	1528
+EU790694.1  Salix eriocephala voucher Brunsfeld 6062a-oh maturase K (matK) gene, 	EU790694 	Salix eriocephala 	Salicaceae	1	1528	1528
+EU790695.1  Salix eriocephala voucher Brunsfeld 17-ny maturase K (matK) gene, 	EU790695 	Salix eriocephala 	Salicaceae	1	1528	1528
+EU790696.1  Salix eriocephala voucher Brunsfeld 4052-id maturase K (matK) gene, 	EU790696 	Salix eriocephala 	Salicaceae	1	1528	1528
+EU790699.1  Salix sericea voucher Brunsfeld 4-ny maturase K (matK) gene, partial 	EU790699 	Salix sericea 	Salicaceae	1	1528	1528
+EU790700.1  Salix wolfii voucher Brunsfeld 5092-id maturase K (matK) gene, 	EU790700 	Salix wolfii 	Salicaceae	1	1528	1528
+EU790701.1  Chosenia arbutifolia voucher Chase CHOSBRA6463 maturase K (matK) 	EU790701 	Salix arbutifolia 	Salicaceae	1	1528	1528
+EU790702.1  Populus deltoides voucher Brunsfeld 5050-ny maturase K (matK) gene, 	EU790702 	Populus deltoides 	Salicaceae	1	1528	1528
+FJ514668.1  Casearia javitensis voucher NH200627 maturase K (matK) gene, partial 	FJ514668 	Casearia javitensis 	Salicaceae	1	794	794
+FJ670040.1  Idesia polycarpa maturase K (matK) gene, partial cds; chloroplast. 	FJ670040 	Idesia polycarpa 	Salicaceae	1	1129	1129
+FN794398.1  Salix mucronata subsp. subserrata chloroplast partial tRNA-Lys gene 	FN794398 	Salix mucronata subsp. subserrata 	Salicaceae	296	667	372
+FN794399.1  Salix murielii chloroplast partial tRNA-Lys gene intron and partial 	FN794399 	Salix murielii 	Salicaceae	296	667	372
+FN794402.1  Salix mucronata subsp. subserrata chloroplast partial matK gene for 	FN794402 	Salix mucronata subsp. subserrata 	Salicaceae	72	872	801
+FN794403.1  Salix murielii chloroplast partial matK gene for maturase K. 	FN794403 	Salix murielii 	Salicaceae	72	872	801
+FR694987.1  Salix cardiophylla chloroplast partial matK gene and partial 	FR694987 	Salix cardiophylla 	Salicaceae	50	835	786
+FR694992.1  Salix turczaninowii chloroplast partial matK gene and partial 	FR694992 	Salix turczaninowii 	Salicaceae	50	835	786
+FR695016.1  Salix chamissonis chloroplast partial matK gene and partial tRNA-Lys 	FR695016 	Salix chamissonis 	Salicaceae	50	835	786
+FR695017.1  Salix pseudopentandra chloroplast partial matK gene and partial 	FR695017 	Salix pseudopentandra 	Salicaceae	50	835	786
+GQ248184.1  Populus alba voucher C. Lexer 11-M4 * maturase K (matk) gene, 	GQ248184 	Populus alba 	Salicaceae	1	796	796
+GQ248185.1  Populus tremula voucher C. Lexer TO5-M4* maturase K (matk) gene, 	GQ248185 	Populus tremula 	Salicaceae	1	771	771
+GQ981950.1  Casearia aculeata maturase K (matK) gene, partial cds; chloroplast. 	GQ981950 	Casearia aculeata 	Salicaceae	1	509	509
+GQ981951.1  Casearia arborea maturase K (matK) gene, partial cds; chloroplast. 	GQ981951 	Casearia arborea 	Salicaceae	1	782	782
+GQ981952.1  Casearia commersoniana maturase K (matK) gene, partial cds; 	GQ981952 	Casearia commersoniana 	Salicaceae	1	822	822
+GQ981953.1  Casearia guianensis maturase K (matK) gene, partial cds; 	GQ981953 	Casearia guianensis 	Salicaceae	1	729	729
+GQ981954.1  Casearia sylvestris maturase K (matK) gene, partial cds; 	GQ981954 	Casearia sylvestris 	Salicaceae	1	511	511
+GQ982008.1  Hasseltia floribunda maturase K (matK) gene, partial cds; 	GQ982008 	Hasseltia floribunda 	Salicaceae	1	783	783
+GQ982029.1  Laetia thamnia maturase K (matK) gene, partial cds; chloroplast. 	GQ982029 	Casearia thamnia 	Salicaceae	1	839	839
+GQ982110.1  Tetrathylacium johansenii maturase K (matK) gene, partial cds; 	GQ982110 	Tetrathylacium johansenii 	Salicaceae	1	795	795
+GQ982129.1  Xylosma oligandra maturase K (matK) gene, partial cds; chloroplast. 	GQ982129 	Xylosma oligandra 	Salicaceae	1	859	859
+GU135055.1  Flacourtia indica voucher J.R. Abbott 25027 (FLAS) maturase K (matK) 	GU135055 	Flacourtia indica 	Salicaceae	1	827	827
+GU373360.1  Salix alba voucher H:684333 maturase K (matK) gene, partial cds; 	GU373360 	Salix alba 	Salicaceae	1	786	786
+GU373361.1  Salix glauca subsp. glauca voucher H:031358 maturase K (matK) gene, 	GU373361 	Salix glauca subsp. glauca 	Salicaceae	1	786	786
+GU373362.1  Salix myrsinifolia voucher H:776733 maturase K (matK) gene, partial 	GU373362 	Salix myrsinifolia 	Salicaceae	1	786	786
+GU373363.1  Salix myrsinifolia subsp. kolaensis voucher H:740132 maturase K 	GU373363 	Salix myrsinifolia subsp. kolaensis 	Salicaceae	1	786	786
+GU373364.1  Salix repens voucher H:294686 maturase K (matK) gene, partial cds; 	GU373364 	Salix repens 	Salicaceae	1	786	786
+GU373365.1  Salix repens subsp. arenaria voucher H:738247 maturase K (matK) 	GU373365 	Salix repens subsp. arenaria 	Salicaceae	1	786	786
+GU373367.1  Salix rosmarinifolia voucher H:644625 maturase K (matK) gene, 	GU373367 	Salix rosmarinifolia 	Salicaceae	1	786	786
+GU373368.1  Salix myrsinites voucher H:778526 maturase K (matK) gene, partial 	GU373368 	Salix myrsinites 	Salicaceae	1	780	780
+HE612056.1  Salix darpirensis chloroplast matK gene for maturase K and partial 	HE612056 	Salix darpirensis 	Salicaceae	50	835	786
+HE612061.1  Salix dshugdshurica chloroplast matK gene for maturase K and partial 	HE612061 	Salix dshugdshurica 	Salicaceae	50	835	786
+HE612073.1  Salix nipponica chloroplast matK gene for maturase K and partial 	HE612073 	Salix nipponica 	Salicaceae	50	835	786
+HE612075.1  Salix siuzevii chloroplast matK gene for maturase K and partial trnK 	HE612075 	Salix siuzevii 	Salicaceae	50	835	786
+HE612083.1  Populus suaveolens chloroplast matK gene for maturase K and partial 	HE612083 	Populus suaveolens 	Salicaceae	50	835	786
+HE612084.1  Salix arbutifolia chloroplast matK gene for maturase K and partial 	HE612084 	Salix arbutifolia 	Salicaceae	50	835	786
+HE967464.1  Populus nigra chloroplast partial matK gene for maturase K, specimen 	HE967464 	Populus nigra 	Salicaceae	1	735	735
+HE967465.1  Populus tremula chloroplast partial matK gene for maturase K, 	HE967465 	Populus tremula 	Salicaceae	1	735	735
+HM446663.1  Casearia arborea maturase K (matK) gene, partial cds; chloroplast. 	HM446663 	Casearia arborea 	Salicaceae	1	777	777
+HM446664.1  Casearia sylvestris maturase K (matK) gene, partial cds; 	HM446664 	Casearia sylvestris 	Salicaceae	1	777	777
+HM446700.1  Homalium racemosum maturase K (matK) gene, partial cds; chloroplast. 	HM446700 	Homalium racemosum 	Salicaceae	1	791	791
+HM446704.1  Laetia procera maturase K (matK) gene, partial cds; chloroplast. 	HM446704 	Casearia bicolor 	Salicaceae	1	796	796
+HM446743.1  Samyda dodecandra maturase K (matK) gene, partial cds; chloroplast. 	HM446743 	Casearia dodecandra 	Salicaceae	1	761	761
+HM446753.1  Xylosma schwaneckeana maturase K (matK) gene, partial cds; 	HM446753 	Xylosma schwaneckeana 	Salicaceae	1	628	628
+HM850925.1  Populus alba maturase K (matK) gene, partial cds; chloroplast. 	HM850925 	Populus alba 	Salicaceae	1	825	825
+HM850926.1  Populus nigra maturase K (matK) gene, partial cds; chloroplast. 	HM850926 	Populus nigra 	Salicaceae	1	825	825
+HQ415293.1  Casearia glomerata maturase K (matK) gene, partial cds; chloroplast. 	HQ415293 	Casearia glomerata 	Salicaceae	1	824	824
+HQ415362.1  Homalium cochinchinense maturase K (matK) gene, partial cds; 	HQ415362 	Homalium cochinchinense 	Salicaceae	1	881	881
+HQ427414.1  Idesia polycarpa maturase K (matK) gene, partial cds; chloroplast. 	HQ427414 	Idesia polycarpa 	Salicaceae	1	878	878
+HQ427415.1  Xylosma congesta maturase K (matK) gene, partial cds; chloroplast. 	HQ427415 	Xylosma congesta 	Salicaceae	1	842	842
+HQ593393.1  Populus deltoides voucher KSRB 009 maturase K (matK) gene, partial 	HQ593393 	Populus deltoides 	Salicaceae	1	801	801
+HQ593394.1  Populus tremuloides voucher JAG 0879 maturase K (matK) gene, partial 	HQ593394 	Populus tremuloides 	Salicaceae	1	789	789
+HQ593425.1  Salix alba voucher AP375 maturase K (matK) gene, partial cds; 	HQ593425 	Salix alba 	Salicaceae	1	854	854
+HQ593426.1  Salix bebbiana voucher AP403 maturase K (matK) gene, partial cds; 	HQ593426 	Salix bebbiana 	Salicaceae	1	794	794
+HQ593427.1  Salix lucida voucher AP443 maturase K (matK) gene, partial cds; 	HQ593427 	Salix lucida 	Salicaceae	1	869	869
+HQ593428.1  Salix nigra voucher JAG 0458 maturase K (matK) gene, partial cds; 	HQ593428 	Salix nigra 	Salicaceae	1	849	849
+JF270749.1  Dovyalis caffra voucher OM349 maturase K (matK) gene, partial cds. 	JF270749 	Dovyalis caffra 	Salicaceae	1	777	777
+JF270789.1  Flacourtia indica voucher OM581 maturase K (matK) gene, partial cds. 	JF270789 	Flacourtia indica 	Salicaceae	1	769	769
+JF270824.1  Homalium dentatum voucher OM1508 maturase K (matK) gene, partial 	JF270824 	Homalium dentatum 	Salicaceae	1	777	777
+JF270877.1  Oncoba spinosa voucher OM631 maturase K (matK) gene, partial cds. 	JF270877 	Oncoba spinosa 	Salicaceae	1	760	760
+JF270923.1  Salix mucronata voucher OM1198 maturase K (matK) gene, partial cds. 	JF270923 	Salix mucronata 	Salicaceae	1	554	554
+JF270930.1  Scolopia zeyheri voucher OM1552 maturase K (matK) gene, partial cds. 	JF270930 	Scolopia zeyheri 	Salicaceae	1	725	725
+JF270978.1  Trimeria grandifolia voucher OM1549 maturase K (matK) gene, partial 	JF270978 	Trimeria grandifolia 	Salicaceae	1	768	768
+JF429912.1  Populus tremula maturase K (matK) gene, partial cds; chloroplast. 	JF429912 	Populus tremula 	Salicaceae	1	882	882
+JF429913.1  Populus tremuloides maturase K (matK) gene, partial cds; 	JF429913 	Populus tremuloides 	Salicaceae	1	882	882
+JF429914.1  Populus nigra maturase K (matK) gene, partial cds; chloroplast. 	JF429914 	Populus nigra 	Salicaceae	1	882	882
+JN893907.1  Salix pentandra isolate NMW754 maturase K (matK) gene, partial cds; 	JN893907 	Salix pentandra 	Salicaceae	1	865	865
+JN893908.1  Salix purpurea isolate NMW756 maturase K (matK) gene, partial cds; 	JN893908 	Salix purpurea 	Salicaceae	1	842	842
+JN893909.1  Salix repens isolate NMW757 maturase K (matK) gene, partial cds; 	JN893909 	Salix repens 	Salicaceae	1	825	825
+JN893910.1  Salix aurita isolate NMW750 maturase K (matK) gene, partial cds; 	JN893910 	Salix aurita 	Salicaceae	1	886	886
+JN893911.1  Salix caprea isolate NMW751 maturase K (matK) gene, partial cds; 	JN893911 	Salix caprea 	Salicaceae	1	806	806
+JN893912.1  Salix triandra isolate NMW758 maturase K (matK) gene, partial cds; 	JN893912 	Salix triandra 	Salicaceae	1	843	843
+JN893913.1  Salix viminalis isolate NMW759 maturase K (matK) gene, partial cds; 	JN893913 	Salix viminalis 	Salicaceae	1	877	877
+JN893927.1  Populus tremula isolate NBGW6032 maturase K (matK) gene, partial 	JN893927 	Populus tremula 	Salicaceae	1	820	820
+JN894117.1  Salix aurita isolate NMW6342 maturase K (matK) gene, partial cds; 	JN894117 	Salix aurita 	Salicaceae	1	830	830
+JN894242.1  Salix herbacea isolate NMW5065 maturase K (matK) gene, partial cds; 	JN894242 	Salix herbacea 	Salicaceae	1	803	803
+JN894322.1  Salix alba isolate NMW6488 maturase K (matK) gene, partial cds; 	JN894322 	Salix alba 	Salicaceae	1	752	752
+JN894479.1  Populus tremula isolate NMW651 maturase K (matK) gene, partial cds; 	JN894479 	Populus tremula 	Salicaceae	1	624	624
+JN894480.1  Populus nigra isolate NMW650 maturase K (matK) gene, partial cds; 	JN894480 	Populus nigra 	Salicaceae	1	816	816
+JN894733.1  Salix repens isolate NMW3673 maturase K (matK) gene, partial cds; 	JN894733 	Salix repens 	Salicaceae	1	738	738
+JN894734.1  Salix purpurea isolate NMW3671 maturase K (matK) gene, partial cds; 	JN894734 	Salix purpurea 	Salicaceae	1	835	835
+JN894735.1  Salix purpurea isolate NMW3670 maturase K (matK) gene, partial cds; 	JN894735 	Salix purpurea 	Salicaceae	1	848	848
+JN894736.1  Salix viminalis isolate NMW3677 maturase K (matK) gene, partial cds; 	JN894736 	Salix viminalis 	Salicaceae	1	758	758
+JN894737.1  Salix viminalis isolate NMW3676 maturase K (matK) gene, partial cds; 	JN894737 	Salix viminalis 	Salicaceae	1	802	802
+JN894738.1  Salix triandra isolate NMW3674 maturase K (matK) gene, partial cds; 	JN894738 	Salix triandra 	Salicaceae	1	801	801
+JN894891.1  Salix cinerea isolate NMW3661 maturase K (matK) gene, partial cds; 	JN894891 	Salix cinerea 	Salicaceae	1	766	766
+JN894892.1  Salix fragilis isolate NMW3663 maturase K (matK) gene, partial cds; 	JN894892 	Salix fragilis 	Salicaceae	1	860	860
+JN894893.1  Salix fragilis isolate NMW3664 maturase K (matK) gene, partial cds; 	JN894893 	Salix fragilis 	Salicaceae	1	852	852
+JN894895.1  Salix pentandra isolate NMW3668 maturase K (matK) gene, partial cds; 	JN894895 	Salix pentandra 	Salicaceae	1	834	834
+JN894896.1  Salix pentandra isolate NMW3669 maturase K (matK) gene, partial cds; 	JN894896 	Salix pentandra 	Salicaceae	1	834	834
+JN895010.1  Salix cinerea isolate NMW6287 maturase K (matK) gene, partial cds; 	JN895010 	Salix cinerea 	Salicaceae	1	824	824
+JN895049.1  Salix caprea isolate NMW3659 maturase K (matK) gene, partial cds; 	JN895049 	Salix caprea 	Salicaceae	1	781	781
+JN895050.1  Salix alba isolate NMW3655 maturase K (matK) gene, partial cds; 	JN895050 	Salix alba 	Salicaceae	1	761	761
+JN895051.1  Salix aurita isolate NMW3657 maturase K (matK) gene, partial cds; 	JN895051 	Salix aurita 	Salicaceae	1	770	770
+JN895052.1  Populus nigra isolate NMW3651 maturase K (matK) gene, partial cds; 	JN895052 	Populus nigra 	Salicaceae	1	783	783
+JN895053.1  Populus nigra isolate NMW3650 maturase K (matK) gene, partial cds; 	JN895053 	Populus nigra 	Salicaceae	1	796	796
+JN895054.1  Populus tremula isolate NMW3653 maturase K (matK) gene, partial cds; 	JN895054 	Populus tremula 	Salicaceae	1	767	767
+JN895055.1  Populus tremula isolate NMW3652 maturase K (matK) gene, partial cds; 	JN895055 	Populus tremula 	Salicaceae	1	793	793
+JN895285.1  Populus tremula isolate NMW5193 maturase K (matK) gene, partial cds; 	JN895285 	Populus tremula 	Salicaceae	1	796	796
+JN895516.1  Salix herbacea isolate NBGW6016 maturase K (matK) gene, partial cds; 	JN895516 	Salix herbacea 	Salicaceae	1	793	793
+JN895668.1  Salix cinerea isolate NMW880 maturase K (matK) gene, partial cds; 	JN895668 	Salix cinerea 	Salicaceae	1	820	820
+JN895896.1  Salix repens isolate NMW6235 maturase K (matK) gene, partial cds; 	JN895896 	Salix repens 	Salicaceae	1	821	821
+JN966448.1  Populus balsamifera voucher 09PROBE-05087 maturase K (matK) gene, 	JN966448 	Populus balsamifera 	Salicaceae	1	735	735
+JN966449.1  Populus balsamifera voucher 09PROBE-05472 maturase K (matK) gene, 	JN966449 	Populus balsamifera 	Salicaceae	1	789	789
+JN966450.1  Populus balsamifera voucher 09PROBE-05585 maturase K (matK) gene, 	JN966450 	Populus balsamifera 	Salicaceae	1	792	792
+JN966520.1  Salix alaxensis voucher 09PROBE-05927 maturase K (matK) gene, 	JN966520 	Salix alaxensis 	Salicaceae	1	755	755
+JN966521.1  Salix alaxensis voucher 09PROBE-05926 maturase K (matK) gene, 	JN966521 	Salix alaxensis 	Salicaceae	1	749	749
+JN966522.1  Salix alaxensis voucher 09PROBE-05629 maturase K (matK) gene, 	JN966522 	Salix alaxensis 	Salicaceae	1	786	786
+JN966523.1  Salix alaxensis var. alaxensis voucher 09PROBE-05524 maturase K 	JN966523 	Salix alaxensis var. alaxensis 	Salicaceae	1	750	750
+JN966524.1  Salix alaxensis var. alaxensis voucher 09PROBE-05633 maturase K 	JN966524 	Salix alaxensis var. alaxensis 	Salicaceae	1	781	781
+JN966525.1  Salix arbusculoides voucher 09PROBE-05931 maturase K (matK) gene, 	JN966525 	Salix arbusculoides 	Salicaceae	1	675	675
+JN966526.1  Salix arbusculoides voucher 09PROBE-05930 maturase K (matK) gene, 	JN966526 	Salix arbusculoides 	Salicaceae	1	756	756
+JN966528.1  Salix arbusculoides voucher 09PROBE-05391 maturase K (matK) gene, 	JN966528 	Salix arbusculoides 	Salicaceae	1	792	792
+JN966529.1  Salix arbusculoides voucher 09PROBE-05468 maturase K (matK) gene, 	JN966529 	Salix arbusculoides 	Salicaceae	1	791	791
+JN966530.1  Salix arbusculoides voucher 09PROBE-05618 maturase K (matK) gene, 	JN966530 	Salix arbusculoides 	Salicaceae	1	792	792
+JN966531.1  Salix arbusculoides voucher 09PROBE-05636 maturase K (matK) gene, 	JN966531 	Salix arbusculoides 	Salicaceae	1	755	755
+JN966532.1  Salix arctophila voucher L#09PROBE-1014_HOST maturase K (matK) gene, 	JN966532 	Salix arctophila 	Salicaceae	1	772	772
+JN966533.1  Salix arctophila voucher L#09PROBE-1006_HOST maturase K (matK) gene, 	JN966533 	Salix arctophila 	Salicaceae	1	788	788
+JN966534.1  Salix arctophila voucher L#09PROBE-0659_HOST maturase K (matK) gene, 	JN966534 	Salix arctophila 	Salicaceae	1	791	791
+JN966535.1  Salix arctophila voucher L#09PROBE-0657_HOST maturase K (matK) gene, 	JN966535 	Salix arctophila 	Salicaceae	1	770	770
+JN966536.1  Salix arctophila voucher L#09PROBE-0654_HOST maturase K (matK) gene, 	JN966536 	Salix arctophila 	Salicaceae	1	772	772
+JN966538.1  Salix arctophila voucher L#09PROBE-0423_HOST maturase K (matK) gene, 	JN966538 	Salix arctophila 	Salicaceae	1	761	761
+JN966543.1  Salix athabascensis voucher 09PROBE-05933 maturase K (matK) gene, 	JN966543 	Salix athabascensis 	Salicaceae	1	593	593
+JN966544.1  Salix bebbiana voucher 09PROBE-05935 maturase K (matK) gene, partial 	JN966544 	Salix bebbiana 	Salicaceae	1	531	531
+JN966545.1  Salix bebbiana voucher 09PROBE-05103 maturase K (matK) gene, partial 	JN966545 	Salix bebbiana 	Salicaceae	1	789	789
+JN966546.1  Salix bebbiana voucher 09PROBE-05537 maturase K (matK) gene, partial 	JN966546 	Salix bebbiana 	Salicaceae	1	787	787
+JN966548.1  Salix bebbiana voucher 09PROBE-05630 maturase K (matK) gene, partial 	JN966548 	Salix bebbiana 	Salicaceae	1	788	788
+JN966549.1  Salix brachycarpa voucher L#09PROBE-1013_HOST maturase K (matK) 	JN966549 	Salix brachycarpa 	Salicaceae	1	776	776
+JN966550.1  Salix brachycarpa voucher L#09PROBE-0623_HOST maturase K (matK) 	JN966550 	Salix brachycarpa 	Salicaceae	1	787	787
+JN966551.1  Salix brachycarpa voucher L#09PROBE-0622_HOST maturase K (matK) 	JN966551 	Salix brachycarpa 	Salicaceae	1	783	783
+JN966553.1  Salix brachycarpa voucher 09PROBE-05940 maturase K (matK) gene, 	JN966553 	Salix brachycarpa 	Salicaceae	1	755	755
+JN966554.1  Salix brachycarpa voucher 09PROBE-05939 maturase K (matK) gene, 	JN966554 	Salix brachycarpa 	Salicaceae	1	741	741
+JN966556.1  Salix brachycarpa voucher 09PROBE-05936 maturase K (matK) gene, 	JN966556 	Salix brachycarpa 	Salicaceae	1	506	506
+JN966557.1  Salix brachycarpa var. brachycarpa voucher 09PROBE-05011 maturase K 	JN966557 	Salix brachycarpa var. brachycarpa 	Salicaceae	1	755	755
+JN966558.1  Salix brachycarpa var. brachycarpa voucher 09PROBE-05017 maturase K 	JN966558 	Salix brachycarpa var. brachycarpa 	Salicaceae	1	752	752
+JN966559.1  Salix brachycarpa var. brachycarpa voucher 09PROBE-05220 maturase K 	JN966559 	Salix brachycarpa var. brachycarpa 	Salicaceae	1	762	762
+JN966560.1  Salix brachycarpa var. brachycarpa voucher 09PROBE-05234 maturase K 	JN966560 	Salix brachycarpa var. brachycarpa 	Salicaceae	1	748	748
+JN966561.1  Salix brachycarpa var. brachycarpa voucher 09PROBE-05235 maturase K 	JN966561 	Salix brachycarpa var. brachycarpa 	Salicaceae	1	581	581
+JN966567.1  Salix calcicola voucher 09PROBE-05563 maturase K (matK) gene, 	JN966567 	Salix calcicola 	Salicaceae	1	773	773
+JN966568.1  Salix calcicola voucher 09PROBE-05596 maturase K (matK) gene, 	JN966568 	Salix calcicola 	Salicaceae	1	789	789
+JN966570.1  Salix candida voucher L#09PROBE-0437_HOST maturase K (matK) gene, 	JN966570 	Salix candida 	Salicaceae	1	764	764
+JN966571.1  Salix candida voucher L#09PROBE-0436_HOST maturase K (matK) gene, 	JN966571 	Salix candida 	Salicaceae	1	764	764
+JN966578.1  Salix candida voucher 09PROBE-05006 maturase K (matK) gene, partial 	JN966578 	Salix candida 	Salicaceae	1	784	784
+JN966579.1  Salix candida voucher 09PROBE-05269 maturase K (matK) gene, partial 	JN966579 	Salix candida 	Salicaceae	1	679	679
+JN966582.1  Salix glauca voucher 09PROBE-05950 maturase K (matK) gene, partial 	JN966582 	Salix glauca 	Salicaceae	1	708	708
+JN966583.1  Salix glauca voucher 09PROBE-05949 maturase K (matK) gene, partial 	JN966583 	Salix glauca 	Salicaceae	1	756	756
+JN966584.1  Salix glauca voucher 09PROBE-05948 maturase K (matK) gene, partial 	JN966584 	Salix glauca 	Salicaceae	1	756	756
+JN966585.1  Salix glauca voucher 09PROBE-05947 maturase K (matK) gene, partial 	JN966585 	Salix glauca 	Salicaceae	1	727	727
+JN966586.1  Salix glauca voucher 09PROBE-05946 maturase K (matK) gene, partial 	JN966586 	Salix glauca 	Salicaceae	1	687	687
+JN966590.1  Salix glauca subsp. callicarpaea voucher 09PROBE-05622 maturase K 	JN966590 	Salix glauca subsp. callicarpaea 	Salicaceae	1	628	628
+JN966591.1  Salix lanata voucher L#09PROBE-0650_HOST maturase K (matK) gene, 	JN966591 	Salix lanata 	Salicaceae	1	792	792
+JN966593.1  Salix lanata voucher L#09PROBE-0618_HOST maturase K (matK) gene, 	JN966593 	Salix lanata 	Salicaceae	1	785	785
+JN966595.1  Salix myrtillifolia voucher 09PROBE-05960 maturase K (matK) gene, 	JN966595 	Salix myrtillifolia 	Salicaceae	1	551	551
+JN966597.1  Salix myrtillifolia voucher 09PROBE-05957 maturase K (matK) gene, 	JN966597 	Salix myrtillifolia 	Salicaceae	1	752	752
+JN966598.1  Salix myrtillifolia voucher 09PROBE-05956 maturase K (matK) gene, 	JN966598 	Salix myrtillifolia 	Salicaceae	1	661	661
+JN966599.1  Salix myrtillifolia voucher 09PROBE-05955 maturase K (matK) gene, 	JN966599 	Salix myrtillifolia 	Salicaceae	1	740	740
+JN966601.1  Salix pedicellaris voucher 09PROBE-05963 maturase K (matK) gene, 	JN966601 	Salix pedicellaris 	Salicaceae	1	754	754
+JN966602.1  Salix pedicellaris voucher 09PROBE-05961 maturase K (matK) gene, 	JN966602 	Salix pedicellaris 	Salicaceae	1	756	756
+JN966604.1  Salix pellita voucher 09PROBE-05631 maturase K (matK) gene, partial 	JN966604 	Salix pellita 	Salicaceae	1	767	767
+JN966606.1  Salix planifolia voucher L#09PROBE-1002_HOST maturase K (matK) gene, 	JN966606 	Salix planifolia 	Salicaceae	1	790	790
+JN966607.1  Salix planifolia voucher L#09PROBE-0656_HOST maturase K (matK) gene, 	JN966607 	Salix planifolia 	Salicaceae	1	763	763
+JN966610.1  Salix planifolia voucher L#09PROBE-0646_HOST maturase K (matK) gene, 	JN966610 	Salix planifolia 	Salicaceae	1	775	775
+JN966612.1  Salix planifolia voucher L#09PROBE-0641_HOST maturase K (matK) gene, 	JN966612 	Salix planifolia 	Salicaceae	1	765	765
+JN966614.1  Salix planifolia voucher L#09PROBE-0612_HOST maturase K (matK) gene, 	JN966614 	Salix planifolia 	Salicaceae	1	758	758
+JN966616.1  Salix planifolia voucher L#09PROBE-0440_HOST maturase K (matK) gene, 	JN966616 	Salix planifolia 	Salicaceae	1	786	786
+JN966617.1  Salix planifolia voucher L#09PROBE-0439_HOST maturase K (matK) gene, 	JN966617 	Salix planifolia 	Salicaceae	1	778	778
+JN966620.1  Salix planifolia voucher L#09PROBE-0428_HOST maturase K (matK) gene, 	JN966620 	Salix planifolia 	Salicaceae	1	715	715
+JN966622.1  Salix planifolia voucher L#09PROBE-0424_HOST maturase K (matK) gene, 	JN966622 	Salix planifolia 	Salicaceae	1	775	775
+JN966623.1  Salix planifolia voucher L#09PROBE-0421_HOST maturase K (matK) gene, 	JN966623 	Salix planifolia 	Salicaceae	1	705	705
+JN966625.1  Salix planifolia voucher 09PROBE-05972 maturase K (matK) gene, 	JN966625 	Salix planifolia 	Salicaceae	1	756	756
+JN966629.1  Salix planifolia voucher 09PROBE-05967 maturase K (matK) gene, 	JN966629 	Salix planifolia 	Salicaceae	1	756	756
+JN966634.1  Salix planifolia voucher 09PROBE-05280 maturase K (matK) gene, 	JN966634 	Salix planifolia 	Salicaceae	1	785	785
+JN966635.1  Salix planifolia voucher 09PROBE-05491 maturase K (matK) gene, 	JN966635 	Salix planifolia 	Salicaceae	1	767	767
+JN966638.1  Salix pseudomyrsinites voucher 09PROBE-05305 maturase K (matK) gene, 	JN966638 	Salix pseudomyrsinites 	Salicaceae	1	790	790
+JN966639.1  Salix pseudomyrsinites voucher 09PROBE-05536 maturase K (matK) gene, 	JN966639 	Salix pseudomyrsinites 	Salicaceae	1	788	788
+JN966640.1  Salix pseudomyrsinites voucher 09PROBE-05621 maturase K (matK) gene, 	JN966640 	Salix pseudomyrsinites 	Salicaceae	1	792	792
+JN966641.1  Salix pseudomyrsinites voucher 09PROBE-05635 maturase K (matK) gene, 	JN966641 	Salix pseudomyrsinites 	Salicaceae	1	766	766
+JN966647.1  Salix reticulata voucher 09PROBE-05978 maturase K (matK) gene, 	JN966647 	Salix reticulata 	Salicaceae	1	731	731
+JN966652.1  Salix richardsonii voucher 09PROBE-05632 maturase K (matK) gene, 	JN966652 	Salix richardsonii 	Salicaceae	1	780	780
+JN966655.1  Salix vestita voucher 09PROBE-05986 maturase K (matK) gene, partial 	JN966655 	Salix vestita 	Salicaceae	1	556	556
+JN966656.1  Salix vestita voucher 09PROBE-05063 maturase K (matK) gene, partial 	JN966656 	Salix vestita 	Salicaceae	1	774	774
+JN966657.1  Salix vestita voucher 09PROBE-05079 maturase K (matK) gene, partial 	JN966657 	Salix vestita 	Salicaceae	1	775	775
+JQ412234.1  Dovyalis caffra voucher BS0094 maturase K (matK) gene, partial cds; 	JQ412234 	Dovyalis caffra 	Salicaceae	1	777	777
+JQ587935.1  Casearia arborea voucher BioBot05293 maturase K (matK) gene, partial 	JQ587935 	Casearia arborea 	Salicaceae	1	717	717
+JQ587936.1  Casearia tremula voucher BioBot00878 maturase K (matK) gene, partial 	JQ587936 	Casearia tremula 	Salicaceae	1	744	744
+JQ587939.1  Laetia thamnia voucher BioBot02043 maturase K (matK) gene, partial 	JQ587939 	Casearia thamnia 	Salicaceae	1	664	664
+JQ589106.1  Casearia arborea voucher BioBot01479 maturase K (matK) gene, partial 	JQ589106 	Casearia arborea 	Salicaceae	1	743	743
+JQ589107.1  Casearia arborea voucher BioBot01480 maturase K (matK) gene, partial 	JQ589107 	Casearia arborea 	Salicaceae	1	622	622
+JQ589108.1  Casearia arborea voucher BioBot01481 maturase K (matK) gene, partial 	JQ589108 	Casearia arborea 	Salicaceae	1	483	483
+JQ589109.1  Casearia coronata voucher BioBot10997 maturase K (matK) gene, 	JQ589109 	Casearia coronata 	Salicaceae	1	584	584
+JQ589110.1  Casearia coronata voucher BioBot11048 maturase K (matK) gene, 	JQ589110 	Casearia coronata 	Salicaceae	1	688	688
+JQ589111.1  Casearia nitida voucher BioBot00032 maturase K (matK) gene, partial 	JQ589111 	Casearia nitida 	Salicaceae	1	778	778
+JQ589113.1  Casearia praecox voucher BioBot00298 maturase K (matK) gene, partial 	JQ589113 	Casearia praecox 	Salicaceae	1	615	615
+JQ589114.1  Casearia sylvestris voucher BioBot00050 maturase K (matK) gene, 	JQ589114 	Casearia sylvestris 	Salicaceae	1	761	761
+JQ589115.1  Casearia sylvestris voucher BioBot00051 maturase K (matK) gene, 	JQ589115 	Casearia sylvestris 	Salicaceae	1	778	778
+JQ589116.1  Casearia sylvestris voucher BioBot00052 maturase K (matK) gene, 	JQ589116 	Casearia sylvestris 	Salicaceae	1	778	778
+JQ589117.1  Hasseltia floribunda voucher BioBot11023 maturase K (matK) gene, 	JQ589117 	Hasseltia floribunda 	Salicaceae	1	778	778
+JQ589118.1  Hasseltia floribunda voucher BioBot11024 maturase K (matK) gene, 	JQ589118 	Hasseltia floribunda 	Salicaceae	1	777	777
+JQ589120.1  Xylosma chlorantha voucher BioBot10252 maturase K (matK) gene, 	JQ589120 	Xylosma chlorantha 	Salicaceae	1	744	744
+JQ589121.1  Xylosma chlorantha voucher BioBot10253 maturase K (matK) gene, 	JQ589121 	Xylosma chlorantha 	Salicaceae	1	762	762
+JQ589122.1  Xylosma chlorantha voucher BioBot10254 maturase K (matK) gene, 	JQ589122 	Xylosma chlorantha 	Salicaceae	1	765	765
+JQ589123.1  Xylosma flexuosa voucher BioBot00440 maturase K (matK) gene, partial 	JQ589123 	Xylosma flexuosa 	Salicaceae	1	625	625
+JQ589124.1  Xylosma flexuosa voucher BioBot00444 maturase K (matK) gene, partial 	JQ589124 	Xylosma flexuosa 	Salicaceae	1	625	625
+JQ589638.1  Xylosma sp. MHPAA217-08 voucher RE-5091 maturase K (matK) gene, 	JQ589638 	Xylosma sp. MHPAA217-08 	Salicaceae	1	744	744
+JQ589639.1  Casearia sylvestris voucher AG-162 maturase K (matK) gene, partial 	JQ589639 	Casearia sylvestris 	Salicaceae	1	671	671
+JQ626344.1  Laetia procera maturase K (matK) gene, partial cds; plastid. 	JQ626344 	Casearia bicolor 	Salicaceae	1	801	801
+JQ626379.1  Xylosma benthamii maturase K (matK) gene, partial cds; plastid. 	JQ626379 	Xylosma benthamii 	Salicaceae	1	795	795
+JQ626446.1  Casearia javitensis voucher 3054 maturase K (matK) gene, partial 	JQ626446 	Casearia javitensis 	Salicaceae	1	801	801
+JX495747.1  Populus euphratica voucher Hosam00132 maturase K (matK) gene, 	JX495747 	Populus euphratica 	Salicaceae	1	558	558
+JX495748.1  Populus nigra voucher Hosam00077 maturase K (matK) gene, partial 	JX495748 	Populus nigra 	Salicaceae	1	789	789
+JX517323.1  Dovyalis xanthocarpa voucher OM2442 maturase K (matK) gene, partial 	JX517323 	Dovyalis xanthocarpa 	Salicaceae	1	777	777
+JX517356.1  Populus deltoides voucher JG023 maturase K (matK) gene, partial cds; 	JX517356 	Populus deltoides 	Salicaceae	1	777	777
+JX517416.1  Homalium dentatum voucher OM1420 maturase K (matK) gene, partial 	JX517416 	Homalium dentatum 	Salicaceae	1	774	774
+JX517610.1  Scolopia mundii voucher OM2309 maturase K (matK) gene, partial cds; 	JX517610 	Scolopia mundii 	Salicaceae	1	771	771
+JX517689.1  Dovyalis longispina voucher OM2602 maturase K (matK) gene, partial 	JX517689 	Dovyalis longispina 	Salicaceae	1	777	777
+JX517715.1  Dovyalis lucida voucher Abbott9221 maturase K (matK) gene, partial 	JX517715 	Dovyalis lucida 	Salicaceae	1	777	777
+JX517821.1  Oncoba spinosa voucher RBN322 maturase K (matK) gene, partial cds; 	JX517821 	Oncoba spinosa 	Salicaceae	1	771	771
+JX517831.1  Bivinia jalbertii voucher OM2418 maturase K (matK) gene, partial 	JX517831 	Bivinia jalbertii 	Salicaceae	1	777	777
+JX517872.1  Salicaceae sp. OM1781 maturase K (matK) gene, partial cds; 	JX517872 	Salicaceae sp. OM1781 	Salicaceae	1	771	771
+JX517926.1  Casearia gladiiformis voucher OM2323 maturase K (matK) gene, partial 	JX517926 	Casearia gladiiformis 	Salicaceae	1	760	760
+JX518035.1  Dovyalis hispidula voucher OM2581 maturase K (matK) gene, partial 	JX518035 	Dovyalis hispidula 	Salicaceae	1	777	777
+JX518082.1  Flacourtia indica voucher RL1216 maturase K (matK) gene, partial 	JX518082 	Flacourtia indica 	Salicaceae	1	763	763
+JX518217.1  Scolopia stolzii voucher OM2675 maturase K (matK) gene, partial cds; 	JX518217 	Scolopia stolzii 	Salicaceae	1	765	765
+JX661934.1  Casearia nitida MatK (matK) gene, partial cds; chloroplast. 	JX661934 	Casearia nitida 	Salicaceae	1	1749	1749
+JX905955.1  Casearia sp. Abbott 9191 maturase K (matK) gene, partial cds; 	JX905955 	Casearia sp. Abbott 9191 	Salicaceae	1	748	748
+JX970910.1  Populus tremula x Populus alba maturase K (matK) gene, partial cds; 	JX970910 	Populus tremula x Populus alba 	Salicaceae	1	792	792
+KC415377.1  Dovyalis hebecarpa voucher Chen JH 790 maturase K (matK) gene, 	KC415377 	Dovyalis hebecarpa 	Salicaceae	1	787	787
+KC415378.1  Populus cathayana voucher Chen JH 139 maturase K (matK) gene, 	KC415378 	Populus cathayana 	Salicaceae	1	787	787
+KC415379.1  Salix alba voucher Chen JH 563 maturase K (matK) gene, partial cds; 	KC415379 	Salix alba 	Salicaceae	1	787	787
+KC415381.1  Salix araeostachya voucher Wang DC 687 maturase K (matK) gene, 	KC415381 	Salix araeostachya 	Salicaceae	1	787	787
+KC415382.1  Salix arbutifolia voucher Chen JH 134 maturase K (matK) gene, 	KC415382 	Salix arbutifolia 	Salicaceae	1	787	787
+KC415383.1  Salix babylonica voucher Chen JH 107 maturase K (matK) gene, partial 	KC415383 	Salix babylonica 	Salicaceae	1	787	787
+KC415384.1  Salix bangongensis voucher Chen JH 537 maturase K (matK) gene, 	KC415384 	Salix bangongensis 	Salicaceae	1	787	787
+KC415385.1  Salix brachypoda voucher Chen JH 0502 maturase K (matK) gene, 	KC415385 	Salix brachypoda 	Salicaceae	1	787	787
+KC415397.1  Salix exigua voucher Doug G 2344 maturase K (matK) gene, partial 	KC415397 	Salix exigua 	Salicaceae	1	787	787
+KC415399.1  Salix floridana voucher Ioohn RM 13967 maturase K (matK) gene, 	KC415399 	Salix floridana 	Salicaceae	1	787	787
+KC415403.1  Salix interior voucher s.n. maturase K (matK) gene, partial cds; 	KC415403 	Salix interior 	Salicaceae	1	787	787
+KC415404.1  Salix jessoensis voucher HB 547 maturase K (matK) gene, partial cds; 	KC415404 	Salix jessoensis 	Salicaceae	1	787	787
+KC415409.1  Salix matsudana voucher Chen JH 559 maturase K (matK) gene, partial 	KC415409 	Salix matsudana 	Salicaceae	1	779	779
+KC415412.1  Salix mucronata voucher s.n. maturase K (matK) gene, partial cds; 	KC415412 	Salix mucronata 	Salicaceae	1	787	787
+KC415428.1  Salix triandra voucher Chen JH 136 maturase K (matK) gene, partial 	KC415428 	Salix triandra 	Salicaceae	1	787	787
+KC475432.1  Populus balsamifera voucher Saarela_1524_CAN maturase K (matK) gene, 	KC475432 	Populus balsamifera 	Salicaceae	1	776	776
+KC475708.1  Salix alaxensis voucher Gillespie_8557 maturase K (matK) gene, 	KC475708 	Salix alaxensis 	Salicaceae	1	762	762
+KC475709.1  Salix alaxensis voucher Gillespie_8723 maturase K (matK) gene, 	KC475709 	Salix alaxensis 	Salicaceae	1	765	765
+KC475710.1  Salix alaxensis voucher Burt_s.n._CAN593344 maturase K (matK) gene, 	KC475710 	Salix alaxensis 	Salicaceae	1	775	775
+KC475713.1  Salix arbusculoides voucher Maddison_1212_CAN maturase K (matK) 	KC475713 	Salix arbusculoides 	Salicaceae	1	747	747
+KC475714.1  Salix arbusculoides voucher Gillespie_8520 maturase K (matK) gene, 	KC475714 	Salix arbusculoides 	Salicaceae	1	748	748
+KC475715.1  Salix arbusculoides voucher Bennett_08-379_CAN maturase K (matK) 	KC475715 	Salix arbusculoides 	Salicaceae	1	754	754
+KC475716.1  Salix arbusculoides voucher Saarela_1533_CAN maturase K (matK) gene, 	KC475716 	Salix arbusculoides 	Salicaceae	1	558	558
+KC475717.1  Salix arbusculoides voucher Bandringa_350_CAN maturase K (matK) 	KC475717 	Salix arbusculoides 	Salicaceae	1	777	777
+KC475718.1  Salix arctica voucher Argus_14527 maturase K (matK) gene, partial 	KC475718 	Salix arctica 	Salicaceae	1	481	481
+KC475721.1  Salix arctica voucher Gillespie_9499_CAN maturase K (matK) gene, 	KC475721 	Salix arctica 	Salicaceae	1	765	765
+KC475722.1  Salix arctica voucher Gillespie_et_al_8505 maturase K (matK) gene, 	KC475722 	Salix arctica 	Salicaceae	1	789	789
+KC475725.1  Salix arctica voucher Saarela_1439_CAN maturase K (matK) gene, 	KC475725 	Salix arctica 	Salicaceae	1	659	659
+KC475726.1  Salix arctica voucher Aiken_97-021_CAN maturase K (matK) gene, 	KC475726 	Salix arctica 	Salicaceae	1	725	725
+KC475727.1  Salix arctica voucher Gillespie_9498_CAN maturase K (matK) gene, 	KC475727 	Salix arctica 	Salicaceae	1	789	789
+KC475728.1  Salix arctica voucher Argus_14589 maturase K (matK) gene, partial 	KC475728 	Salix arctica 	Salicaceae	1	765	765
+KC475729.1  Salix arctica voucher Consaul_3688_CAN maturase K (matK) gene, 	KC475729 	Salix arctica 	Salicaceae	1	789	789
+KC475733.1  Salix arctica voucher Argus_14519 maturase K (matK) gene, partial 	KC475733 	Salix arctica 	Salicaceae	1	781	781
+KC475734.1  Salix arctica voucher Argus_14563 maturase K (matK) gene, partial 	KC475734 	Salix arctica 	Salicaceae	1	763	763
+KC475735.1  Salix arctica voucher Argus_14530 maturase K (matK) gene, partial 	KC475735 	Salix arctica 	Salicaceae	1	757	757
+KC475737.1  Salix arctica x Salix polaris voucher Gillespie_et_al_8095b maturase 	KC475737 	Salix arctica x Salix polaris 	Salicaceae	1	765	765
+KC475738.1  Salix arctica x Salix polaris voucher Gillespie_et_al_8094 maturase 	KC475738 	Salix arctica x Salix polaris 	Salicaceae	1	776	776
+KC475739.1  Salix arctica x Salix polaris voucher Gillespie_6932 maturase K 	KC475739 	Salix arctica x Salix polaris 	Salicaceae	1	777	777
+KC475740.1  Salix arctophila voucher Gillespie_et_al_7511 maturase K (matK) 	KC475740 	Salix arctophila 	Salicaceae	1	763	763
+KC475743.1  Salix calcicola voucher Edlund_302_CAN maturase K (matK) gene, 	KC475743 	Salix calcicola 	Salicaceae	1	687	687
+KC475745.1  Salix calcicola voucher Brunton_9884_CAN maturase K (matK) gene, 	KC475745 	Salix calcicola 	Salicaceae	1	743	743
+KC475746.1  Salix chamissonis voucher Dickson_6018_CAN maturase K (matK) gene, 	KC475746 	Salix chamissonis 	Salicaceae	1	753	753
+KC475749.1  Salix fuscescens voucher Scotter_31878_CAN maturase K (matK) gene, 	KC475749 	Salix fuscescens 	Salicaceae	1	558	558
+KC475750.1  Salix fuscescens voucher Bennett_05-0656_CAN maturase K (matK) gene, 	KC475750 	Salix fuscescens 	Salicaceae	1	613	613
+KC475753.1  Salix glauca voucher Ovenden_757_CAN maturase K (matK) gene, partial 	KC475753 	Salix glauca 	Salicaceae	1	559	559
+KC475755.1  Salix glauca var. acutifolia voucher Argus_12896_CAN maturase K 	KC475755 	Salix glauca var. acutifolia 	Salicaceae	1	712	712
+KC475756.1  Salix glauca var. stipulata voucher Bennett_05-0981b_CAN maturase K 	KC475756 	Salix glauca var. stipulata 	Salicaceae	1	770	770
+KC475757.1  Salix glauca var. stipulata voucher Gillespie_8991 maturase K (matK) 	KC475757 	Salix glauca var. stipulata 	Salicaceae	1	652	652
+KC475758.1  Salix glauca var. villosa voucher Saarela_1530_CAN maturase K (matK) 	KC475758 	Salix glauca var. villosa 	Salicaceae	1	696	696
+KC475759.1  Salix glauca var. villosa voucher Saarela_1531_CAN maturase K (matK) 	KC475759 	Salix glauca var. villosa 	Salicaceae	1	651	651
+KC475760.1  Salix hastata voucher Bennett_08-319_CAN maturase K (matK) gene, 	KC475760 	Salix hastata 	Salicaceae	1	779	779
+KC475762.1  Salix hastata voucher Gillespie_8719 maturase K (matK) gene, partial 	KC475762 	Salix hastata 	Salicaceae	1	766	766
+KC475764.1  Salix herbacea voucher Fleck_sn_CAN454295 maturase K (matK) gene, 	KC475764 	Salix herbacea 	Salicaceae	1	711	711
+KC475765.1  Salix niphoclada voucher Gillespie_10014_CAN maturase K (matK) gene, 	KC475765 	Salix niphoclada 	Salicaceae	1	768	768
+KC475767.1  Salix niphoclada voucher Boles_RB00-28 maturase K (matK) gene, 	KC475767 	Salix niphoclada 	Salicaceae	1	713	713
+KC475768.1  Salix niphoclada voucher Gillespie_7182_CAN maturase K (matK) gene, 	KC475768 	Salix niphoclada 	Salicaceae	1	767	767
+KC475769.1  Salix niphoclada voucher Argus_14583 maturase K (matK) gene, partial 	KC475769 	Salix niphoclada 	Salicaceae	1	784	784
+KC475771.1  Salix ovalifolia var. arctolitoralis voucher Bennett_05-009_CAN 	KC475771 	Salix ovalifolia var. arctolitoralis 	Salicaceae	1	754	754
+KC475772.1  Salix planifolia voucher MacInnes_705_CAN maturase K (matK) gene, 	KC475772 	Salix planifolia 	Salicaceae	1	748	748
+KC475773.1  Salix planifolia voucher Iles_02-051_CAN maturase K (matK) gene, 	KC475773 	Salix planifolia 	Salicaceae	1	787	787
+KC475775.1  Salix planifolia voucher Brunton_10488_CAN maturase K (matK) gene, 	KC475775 	Salix planifolia 	Salicaceae	1	736	736
+KC475776.1  Salix polaris voucher Edlund_589_CAN maturase K (matK) gene, partial 	KC475776 	Salix polaris 	Salicaceae	1	712	712
+KC475778.1  Salix polaris voucher Bennett_08-236_CAN maturase K (matK) gene, 	KC475778 	Salix polaris 	Salicaceae	1	760	760
+KC475779.1  Salix polaris voucher Gillespie_9852_CAN maturase K (matK) gene, 	KC475779 	Salix polaris 	Salicaceae	1	770	770
+KC475780.1  Salix polaris voucher Gillespie_7260_CAN maturase K (matK) gene, 	KC475780 	Salix polaris 	Salicaceae	1	773	773
+KC475781.1  Salix pseudomyrsinites voucher Abraham_sn_CAN586308 maturase K 	KC475781 	Salix pseudomyrsinites 	Salicaceae	1	719	719
+KC475785.1  Salix reticulata voucher Gillespie_6712_CAN maturase K (matK) gene, 	KC475785 	Salix reticulata 	Salicaceae	1	785	785
+KC475786.1  Salix reticulata voucher Argus_14529 maturase K (matK) gene, partial 	KC475786 	Salix reticulata 	Salicaceae	1	789	789
+KC475787.1  Salix reticulata voucher Gillespie_et_al_7475 maturase K (matK) 	KC475787 	Salix reticulata 	Salicaceae	1	763	763
+KC475788.1  Salix reticulata voucher Consaul_3742_CAN maturase K (matK) gene, 	KC475788 	Salix reticulata 	Salicaceae	1	718	718
+KC475792.1  Salix reticulata voucher Gillespie_8578 maturase K (matK) gene, 	KC475792 	Salix reticulata 	Salicaceae	1	636	636
+KC475795.1  Salix richardsonii voucher Saarela_1503_CAN maturase K (matK) gene, 	KC475795 	Salix richardsonii 	Salicaceae	1	789	789
+KC475796.1  Salix richardsonii voucher Gillespie_9800_CAN maturase K (matK) 	KC475796 	Salix richardsonii 	Salicaceae	1	772	772
+KC475798.1  Salix richardsonii voucher Gillespie_7104b_CAN maturase K (matK) 	KC475798 	Salix richardsonii 	Salicaceae	1	717	717
+KC475803.1  Salix rotundifolia voucher Argus_14588 maturase K (matK) gene, 	KC475803 	Salix rotundifolia 	Salicaceae	1	789	789
+KC475806.1  Salix silicicola voucher Argus_14590 maturase K (matK) gene, partial 	KC475806 	Salix silicicola 	Salicaceae	1	757	757
+KC475809.1  Salix sphenophylla voucher Kemper_27009_CAN maturase K (matK) gene, 	KC475809 	Salix sphenophylla 	Salicaceae	1	759	759
+KC475810.1  Salix sphenophylla voucher Bennett_08-312_CAN maturase K (matK) 	KC475810 	Salix sphenophylla 	Salicaceae	1	584	584
+KC475812.1  Salix tyrrelli voucher Edlund_301_CAN maturase K (matK) gene, 	KC475812 	Salix tyrrellii 	Salicaceae	1	724	724
+KC475814.1  Salix uva-ursi voucher Aiken_97-045_CAN maturase K (matK) gene, 	KC475814 	Salix uva-ursi 	Salicaceae	1	750	750
+KC485111.1  Populus afghanica voucher LiuJQ-FJJ-0209-010 maturase K (matK) gene, 	KC485111 	Populus afghanica 	Salicaceae	1	775	775
+KC485114.1  Populus ciliata voucher LiuJQ-QTP-2011-092 maturase K (matK) gene, 	KC485114 	Populus ciliata 	Salicaceae	1	775	775
+KC485115.1  Populus davidiana voucher LiuJQ-QTP-2011-159 maturase K (matK) gene, 	KC485115 	Populus davidiana 	Salicaceae	1	775	775
+KC485116.1  Populus x jrtyschensis voucher LiuJQ-XJ-2011-025 maturase K (matK) 	KC485116 	Populus x jrtyschensis 	Salicaceae	1	775	775
+KC485117.1  Populus x jrtyschensis voucher LiuJQ-XJ-2011-046 maturase K (matK) 	KC485117 	Populus x jrtyschensis 	Salicaceae	1	775	775
+KC485119.1  Populus laurifolia voucher LiuJQ-XJ-2011-082 maturase K (matK) gene, 	KC485119 	Populus laurifolia 	Salicaceae	1	775	775
+KC485120.1  Populus nigra voucher LiuJQ-XJ-2011-031 maturase K (matK) gene, 	KC485120 	Populus nigra 	Salicaceae	1	775	775
+KC485121.1  Populus pamirica var. akqiensis voucher LiuJQ-FJJ-0204-005 maturase 	KC485121 	Populus pamirica var. akqiensis 	Salicaceae	1	775	775
+KC485124.1  Populus qamdoensis voucher LiuJQ-QTP-2011-015 maturase K (matK) 	KC485124 	Populus qamdoensis 	Salicaceae	1	775	775
+KC485126.1  Populus rotundifolia var. duclouxiana voucher LiuJQ-QTP-2011-173 	KC485126 	Populus rotundifolia var. duclouxiana 	Salicaceae	1	775	775
+KC485127.1  Populus simonii voucher LiuJQ-QTP-2011-290 maturase K (matK) gene, 	KC485127 	Populus simonii 	Salicaceae	1	775	775
+KC485128.1  Populus simonii voucher RY063 maturase K (matK) gene, partial cds; 	KC485128 	Populus simonii 	Salicaceae	1	775	775
+KC485129.1  Populus szechuanica voucher LiuJQ-QTP-2011-260 maturase K (matK) 	KC485129 	Populus szechuanica 	Salicaceae	1	775	775
+KC485134.1  Populus purdomii voucher LiuJQ-QTP-2011-067 maturase K (matK) gene, 	KC485134 	Populus purdomii 	Salicaceae	1	775	775
+KC485138.1  Populus euphratica voucher LiuJQ-XJ-2011-117 maturase K (matK) gene, 	KC485138 	Populus euphratica 	Salicaceae	1	766	766
+KC584937.1  Populus alba maturase K (matK) gene, partial cds; chloroplast. 	KC584937 	Populus alba 	Salicaceae	1	830	830
+KC584938.1  Populus nigra maturase K (matK) gene, partial cds; chloroplast. 	KC584938 	Populus nigra 	Salicaceae	1	830	830
+KC584942.1  Salix triandra maturase K (matK) gene, partial cds; chloroplast. 	KC584942 	Salix triandra 	Salicaceae	1	830	830
+KC627419.1  Oncoba glauca voucher MPADN0082 maturase K (matK) gene, partial cds; 	KC627419 	Oncoba glauca 	Salicaceae	1	752	752
+KC627434.1  Homalium longistylum voucher PM5277 maturase K (matK) gene, partial 	KC627434 	Homalium longistylum 	Salicaceae	1	822	822
+KC627548.1  Casearia barteri voucher PM5482 maturase K (matK) gene, partial cds; 	KC627548 	Casearia barteri 	Salicaceae	1	749	749
+KC627550.1  Phyllobotryon spathulatum voucher PM4868 maturase K (matK) gene, 	KC627550 	Phyllobotryon spathulatum 	Salicaceae	1	829	829
+KC627622.1  Oncoba glauca voucher PM5190 maturase K (matK) gene, partial cds; 	KC627622 	Oncoba glauca 	Salicaceae	1	759	759
+KC627671.1  Homalium longistylum voucher PM5109 maturase K (matK) gene, partial 	KC627671 	Homalium longistylum 	Salicaceae	1	817	817
+KC627726.1  Oncoba glauca voucher PM5136 maturase K (matK) gene, partial cds; 	KC627726 	Oncoba glauca 	Salicaceae	1	780	780
+KC627844.1  Homalium sarcopetalum voucher PM5432 maturase K (matK) gene, partial 	KC627844 	Homalium sarcopetalum 	Salicaceae	1	820	820
+KC627849.1  Casearia barteri voucher PM5560 maturase K (matK) gene, partial cds; 	KC627849 	Casearia barteri 	Salicaceae	1	708	708
+KC627877.1  Homalium letestui voucher PM5605 maturase K (matK) gene, partial 	KC627877 	Homalium letestui 	Salicaceae	1	821	821
+KC627892.1  Phyllobotryon spathulatum voucher PM4800 maturase K (matK) gene, 	KC627892 	Phyllobotryon spathulatum 	Salicaceae	1	800	800
+KF209253.1  Salix cavaleriei voucher Chen JH 1038 maturase K (matK) gene, 	KF209253 	Salix cavaleriei 	Salicaceae	1	762	762
+KF209261.1  Salix matsudana voucher Chen JH 1034 maturase K (matK) gene, partial 	KF209261 	Salix matsudana 	Salicaceae	1	762	762
+KF940862.1  Populus adenopoda trnK gene, partial sequence; and maturase K (matK) 	KF940862 	Populus adenopoda 	Salicaceae	261	1793	1533
+KF940863.1  Populus afghanica trnK gene, partial sequence; and maturase K (matK) 	KF940863 	Populus afghanica 	Salicaceae	254	1786	1533
+KF940864.1  Populus alba trnK gene, partial sequence; and maturase K (matK) 	KF940864 	Populus alba 	Salicaceae	261	1793	1533
+KF940865.1  Populus balsamifera trnK gene, partial sequence; and maturase K 	KF940865 	Populus balsamifera 	Salicaceae	254	1786	1533
+KF940866.1  Populus cathayana trnK gene, partial sequence; and SET domain 	KF940866 	Populus cathayana 	Salicaceae	255	1787	1533
+KF940867.1  Populus davidiana trnK gene, partial sequence; and maturase K (matK) 	KF940867 	Populus davidiana 	Salicaceae	289	1821	1533
+KF940868.1  Populus deltoides trnK gene, partial sequence; and maturase K (matK) 	KF940868 	Populus deltoides 	Salicaceae	254	1786	1533
+KF940869.1  Populus euphratica trnK gene, partial sequence; and maturase K 	KF940869 	Populus euphratica 	Salicaceae	254	1777	1524
+KF940870.1  Populus grandidentata trnK gene, partial sequence; and maturase K 	KF940870 	Populus grandidentata 	Salicaceae	261	1793	1533
+KF940871.1  Populus hopeiensis trnK gene, partial sequence; and maturase K 	KF940871 	Populus hopeiensis 	Salicaceae	289	1821	1533
+KF940872.1  Populus koreana trnK gene, partial sequence; and maturase K (matK) 	KF940872 	Populus koreana 	Salicaceae	254	1786	1533
+KF940873.1  Populus lasiocarpa trnK gene, partial sequence; and maturase K 	KF940873 	Populus lasiocarpa 	Salicaceae	255	1787	1533
+KF940874.1  Populus laurifolia trnK gene, partial sequence; and maturase K 	KF940874 	Populus laurifolia 	Salicaceae	255	1787	1533
+KF940875.1  Populus nigra trnK gene, partial sequence; and maturase K (matK) 	KF940875 	Populus nigra 	Salicaceae	261	1793	1533
+KF940876.1  Populus pamirica trnK gene, partial sequence; and maturase K (matK) 	KF940876 	Populus pamirica 	Salicaceae	254	1786	1533
+KF940877.1  Populus pruinosa trnK gene, partial sequence; and maturase K (matK) 	KF940877 	Populus pruinosa 	Salicaceae	254	1777	1524
+KF940878.1  Populus przewalskii trnK gene, partial sequence; and maturase K 	KF940878 	Populus przewalskii 	Salicaceae	255	1787	1533
+KF940879.1  Populus simonii trnK gene, partial sequence; and maturase K (matK) 	KF940879 	Populus simonii 	Salicaceae	254	1786	1533
+KF940880.1  Populus suaveolens trnK gene, partial sequence; and maturase K 	KF940880 	Populus suaveolens 	Salicaceae	254	1786	1533
+KF940881.1  UNVERIFIED: Populus szechuanica trnK gene, partial sequence; and 	KF940881 	Populus szechuanica 	Salicaceae	254	1786	1533
+KF940882.1  Populus talassica trnK gene, partial sequence; and maturase K (matK) 	KF940882 	Populus talassica 	Salicaceae	254	1786	1533
+KF940883.1  Populus tomentosa trnK gene, partial sequence; and maturase K (matK) 	KF940883 	Populus tomentosa 	Salicaceae	289	1821	1533
+KF940884.1  Populus tremula trnK gene, partial sequence; and maturase K (matK) 	KF940884 	Populus tremula 	Salicaceae	261	1793	1533
+KF940885.1  Populus tremuloides trnK gene, partial sequence; and maturase K 	KF940885 	Populus tremuloides 	Salicaceae	261	1793	1533
+KF940886.1  Populus trichocarpa trnK gene, partial sequence; and maturase K 	KF940886 	Populus trichocarpa 	Salicaceae	254	1786	1533
+KF940887.1  Populus ussuriensis trnK gene, partial sequence; and maturase K 	KF940887 	Populus ussuriensis 	Salicaceae	255	1787	1533
+KF940888.1  Salix arbutifolia trnK gene, partial sequence; and maturase K (matK) 	KF940888 	Salix arbutifolia 	Salicaceae	244	1776	1533
+KF940889.1  Salix babylonica trnK gene, partial sequence; and maturase K (matK) 	KF940889 	Salix babylonica 	Salicaceae	246	1778	1533
+KF940890.1  UNVERIFIED: Salix raddeana trnK gene, partial sequence; and matK 	KF940890 	Salix raddeana 	Salicaceae	618	1776	1159
+KF940891.1  Salix triandra trnK gene, partial sequence; and maturase K (matK) 	KF940891 	Salix triandra 	Salicaceae	245	1777	1533
+KF997418.1  Salix arbuscula isolate BF87 maturase K (matK) gene, partial cds; 	KF997418 	Salix arbuscula 	Salicaceae	1	636	636
+KJ012502.1  Casearia guianensis voucher 1079133416 maturase K (matK) gene, 	KJ012502 	Casearia guianensis 	Salicaceae	1	737	737
+KJ012822.1  Xylosma buxifolia voucher 0132456796 maturase K (matK) gene, partial 	KJ012822 	Xylosma buxifolia 	Salicaceae	1	737	737
+KJ012823.1  Xylosma buxifolia voucher 0118736727 maturase K (matK) gene, partial 	KJ012823 	Xylosma buxifolia 	Salicaceae	1	601	601
+KJ012824.1  Xylosma buxifolia voucher 0118737142 maturase K (matK) gene, partial 	KJ012824 	Xylosma buxifolia 	Salicaceae	1	601	601
+KJ101477.1  Salix arbutifolia clone trnk1 tRNA-Lys (trnK) gene, intron; and 	KJ101477 	Salix arbutifolia 	Salicaceae	229	1761	1533
+KJ101478.1  Populus euphratica clone trnk2 tRNA-Lys (trnK) gene, intron; and 	KJ101478 	Populus euphratica 	Salicaceae	239	1762	1524
+KJ101479.1  Salix raddeana clone trnk3 tRNA-Lys (trnK) gene, intron; and 	KJ101479 	Salix raddeana 	Salicaceae	229	1761	1533
+KJ101481.1  Salix matsudana clone trnk5 tRNA-Lys (trnK) gene, intron; and 	KJ101481 	Salix matsudana 	Salicaceae	230	1762	1533
+KJ101492.1  Salix matsudana clone trnk16 tRNA-Lys (trnK) gene, intron; and 	KJ101492 	Salix matsudana 	Salicaceae	230	1762	1533
+KJ204525.1  Populus nigra voucher G00199121 maturase K (matK) gene, partial cds; 	KJ204525 	Populus nigra 	Salicaceae	1	846	846
+KJ204532.1  Salix alba voucher G00199112 maturase K (matK) gene, partial cds; 	KJ204532 	Salix alba 	Salicaceae	1	675	675
+KJ204533.1  Salix caprea voucher G00199114 maturase K (matK) gene, partial cds; 	KJ204533 	Salix caprea 	Salicaceae	1	827	827
+KJ593062.1  Populus balsamifera voucher WAB_0132469060 maturase K (matK) gene, 	KJ593062 	Populus balsamifera 	Salicaceae	1	773	773
+KJ593063.1  Populus balsamifera voucher WAB_1079140488 maturase K (matK) gene, 	KJ593063 	Populus balsamifera 	Salicaceae	1	774	774
+KJ593064.1  Populus balsamifera voucher WAB_0132469148 maturase K (matK) gene, 	KJ593064 	Populus balsamifera 	Salicaceae	1	758	758
+KJ593065.1  Populus grandidentata voucher WAB_0132469084 maturase K (matK) gene, 	KJ593065 	Populus grandidentata 	Salicaceae	1	772	772
+KJ593066.1  Populus grandidentata voucher WAB_1079140464 maturase K (matK) gene, 	KJ593066 	Populus grandidentata 	Salicaceae	1	665	665
+KJ593067.1  Populus grandidentata voucher WAB_0132469075 maturase K (matK) gene, 	KJ593067 	Populus grandidentata 	Salicaceae	1	771	771
+KJ593068.1  Populus tremuloides voucher WAB_0132469108 maturase K (matK) gene, 	KJ593068 	Populus tremuloides 	Salicaceae	1	771	771
+KJ593069.1  Populus tremuloides voucher WAB_0132469099 maturase K (matK) gene, 	KJ593069 	Populus tremuloides 	Salicaceae	1	779	779
+KJ593097.1  Salix bebbiana voucher WAB_0132468976 maturase K (matK) gene, 	KJ593097 	Salix bebbiana 	Salicaceae	1	776	776
+KJ593098.1  Salix pyrifolia voucher WAB_0132468991 maturase K (matK) gene, 	KJ593098 	Salix pyrifolia 	Salicaceae	1	782	782
+KJ773117.1  Salix caroliniana maturase K (matK) gene, partial cds; chloroplast. 	KJ773117 	Salix caroliniana 	Salicaceae	1	657	657
+KJ773118.1  Salix humilis maturase K (matK) gene, partial cds; chloroplast. 	KJ773118 	Salix humilis 	Salicaceae	1	663	663
+KJ840970.1  Populus balsamifera voucher TJD-007 maturase K (matK) gene, partial 	KJ840970 	Populus balsamifera 	Salicaceae	1	818	818
+KJ840971.1  Populus tremuloides voucher TJD-008 maturase K (matK) gene, partial 	KJ840971 	Populus tremuloides 	Salicaceae	1	837	837
+KJ840994.1  Salix bebbiana voucher TJD-069 maturase K (matK) gene, partial cds; 	KJ840994 	Salix bebbiana 	Salicaceae	1	793	793
+KJ840995.1  Salix discolor voucher TJD-082 maturase K (matK) gene, partial cds; 	KJ840995 	Salix discolor 	Salicaceae	1	832	832
+KJ840996.1  Salix discolor voucher TJD-067 maturase K (matK) gene, partial cds; 	KJ840996 	Salix discolor 	Salicaceae	1	802	802
+KJ840997.1  Salix discolor x eriocephala voucher TJD-092 maturase K (matK) gene, 	KJ840997 	Salix discolor x Salix eriocephala 	Salicaceae	1	819	819
+KJ840998.1  Salix eriocephala voucher TJD-135 maturase K (matK) gene, partial 	KJ840998 	Salix eriocephala 	Salicaceae	1	778	778
+KJ840999.1  Salix eriocephala voucher TJD-072 maturase K (matK) gene, partial 	KJ840999 	Salix eriocephala 	Salicaceae	1	790	790
+KJ841000.1  Salix eriocephala voucher TJD-071 maturase K (matK) gene, partial 	KJ841000 	Salix eriocephala 	Salicaceae	1	739	739
+KJ841001.1  Salix eriocephala voucher TJD-094 maturase K (matK) gene, partial 	KJ841001 	Salix eriocephala 	Salicaceae	1	822	822
+KJ841002.1  Salix interior voucher TJD-070 maturase K (matK) gene, partial cds; 	KJ841002 	Salix interior 	Salicaceae	1	738	738
+KJ841003.1  Salix petiolaris voucher TJD-086 maturase K (matK) gene, partial 	KJ841003 	Salix petiolaris 	Salicaceae	1	811	811
+KJ841004.1  Salix serissima voucher TJD-637 maturase K (matK) gene, partial cds; 	KJ841004 	Salix serissima 	Salicaceae	1	728	728
+KJ841005.1  Salix x fragilis voucher TJD-079 maturase K (matK) gene, partial 	KJ841005 	Salix x fragilis 	Salicaceae	1	809	809
+KM001945.1  Salix alaxensis voucher SALIX226_08_07_BAB_023 maturase K (matK) 	KM001945 	Salix alaxensis 	Salicaceae	1	889	889
+KM001950.1  Salix alaxensis voucher SALIX264_08_07_BAB_237 maturase K (matK) 	KM001950 	Salix alaxensis 	Salicaceae	1	889	889
+KM001954.1  Salix alba voucher SALIX201_08_07_DMP_UniGuelph maturase K (matK) 	KM001954 	Salix alba 	Salicaceae	1	889	889
+KM001955.1  Salix amygdaloides voucher SALIX320_08_07_GWA_14346 maturase K 	KM001955 	Salix amygdaloides 	Salicaceae	1	889	889
+KM001965.1  Salix arctica voucher SALIX039_08_07_JMS_1334 maturase K (matK) 	KM001965 	Salix arctica 	Salicaceae	1	889	889
+KM001966.1  Salix arctica voucher SALIX049_08_07_JMS_1343 maturase K (matK) 	KM001966 	Salix arctica 	Salicaceae	1	889	889
+KM001967.1  Salix arctica voucher SALIX137_08_07_DPQC_0017 maturase K (matK) 	KM001967 	Salix arctica 	Salicaceae	1	889	889
+KM001968.1  Salix arctica voucher SALIX140_08_07_DPQC_0020 maturase K (matK) 	KM001968 	Salix arctica 	Salicaceae	1	889	889
+KM001970.1  Salix arctica voucher SALIX142_08_07_DPQC_0025 maturase K (matK) 	KM001970 	Salix arctica 	Salicaceae	1	889	889
+KM001971.1  Salix arctica voucher SALIX144_08_07_DPQC_0028 maturase K (matK) 	KM001971 	Salix arctica 	Salicaceae	1	889	889
+KM001977.1  Salix arctica voucher SALIX234_08_07_BAB_047A maturase K (matK) 	KM001977 	Salix arctica 	Salicaceae	1	889	889
+KM001979.1  Salix arctica voucher SALIX283_08_07_BAB_293 maturase K (matK) gene, 	KM001979 	Salix arctica 	Salicaceae	1	889	889
+KM001986.1  Salix arizonica voucher SALIX298_08_07_CEG_26 maturase K (matK) 	KM001986 	Salix arizonica 	Salicaceae	1	889	889
+KM002010.1  Salix barclayi voucher SALIX266_08_07_BAB_246 maturase K (matK) 	KM002010 	Salix barclayi 	Salicaceae	1	889	889
+KM002038.1  Salix bebbiana voucher SALIX121_08_07_EM_0628 maturase K (matK) 	KM002038 	Salix bebbiana 	Salicaceae	1	889	889
+KM002040.1  Salix bebbiana voucher SALIX129_08_07_DPQC_0009 maturase K (matK) 	KM002040 	Salix bebbiana 	Salicaceae	1	889	889
+KM002045.1  Salix bebbiana voucher SALIX248_08_07_BAB_193 maturase K (matK) 	KM002045 	Salix bebbiana 	Salicaceae	1	889	889
+KM002063.1  Salix boothii voucher SALIX197_08_07_UBCBG_037007_1003_2003 maturase 	KM002063 	Salix boothii 	Salicaceae	1	889	889
+KM002065.1  Salix boothii voucher SALIX355_08_07_GWA_14387 maturase K (matK) 	KM002065 	Salix boothii 	Salicaceae	1	889	889
+KM002073.1  Salix calcicola voucher SALIX533_08_08_GWA_14450 maturase K (matK) 	KM002073 	Salix calcicola 	Salicaceae	1	875	875
+KM002082.1  Salix candida voucher SALIX481_08_08_DPQC_0136 maturase K (matK) 	KM002082 	Salix candida 	Salicaceae	1	889	889
+KM002089.1  Salix cordata voucher SALIX342_08_07_GWA_14371 maturase K (matK) 	KM002089 	Salix cordata 	Salicaceae	1	889	889
+KM002090.1  Salix cordata voucher SALIX343_08_07_GWA_14372 maturase K (matK) 	KM002090 	Salix cordata 	Salicaceae	1	861	861
+KM002091.1  Salix cordata voucher SALIX344_08_07_GWA_14375 maturase K (matK) 	KM002091 	Salix cordata 	Salicaceae	1	889	889
+KM002095.1  Salix discolor voucher SALIX319_08_07_GWA_14345 maturase K (matK) 	KM002095 	Salix discolor 	Salicaceae	1	889	889
+KM002098.1  Salix discolor voucher SALIX339_08_07_GWA_14368 maturase K (matK) 	KM002098 	Salix discolor 	Salicaceae	1	898	898
+KM002104.1  Salix drummondiana voucher SALIX276_08_07_BAB_274 maturase K (matK) 	KM002104 	Salix drummondiana 	Salicaceae	1	816	816
+KM002112.1  Salix drummondiana voucher SALIX478_08_08_DPQC_0133 maturase K 	KM002112 	Salix drummondiana 	Salicaceae	1	889	889
+KM002126.1  Salix interior voucher SALIX183_08_07_PMP_20866 maturase K (matK) 	KM002126 	Salix interior 	Salicaceae	1	889	889
+KM002128.1  Salix exigua voucher SALIX373_08_07_GWA_14429 maturase K (matK) 	KM002128 	Salix exigua 	Salicaceae	1	889	889
+KM002130.1  Salix exigua voucher SALIX499_08_08_CEG_02 maturase K (matK) gene, 	KM002130 	Salix exigua 	Salicaceae	1	889	889
+KM002131.1  Salix exigua voucher SALIX504_08_08_CEG_06 maturase K (matK) gene, 	KM002131 	Salix exigua 	Salicaceae	1	889	889
+KM002137.1  Salix geyeriana voucher SALIX511_08_08_CEG_13 maturase K (matK) 	KM002137 	Salix geyeriana 	Salicaceae	1	889	889
+KM002141.1  Salix glauca voucher SALIX224_08_07_BAB_017 maturase K (matK) gene, 	KM002141 	Salix glauca 	Salicaceae	1	889	889
+KM002142.1  Salix glauca voucher SALIX252_08_07_BAB_199 maturase K (matK) gene, 	KM002142 	Salix glauca 	Salicaceae	1	876	876
+KM002151.1  Salix glauca voucher SALIX471_08_08_DPQC_0126 maturase K (matK) 	KM002151 	Salix glauca 	Salicaceae	1	889	889
+KM002164.1  Salix hookeriana voucher SALIX024_08_07_JMS_1297 maturase K (matK) 	KM002164 	Salix hookeriana 	Salicaceae	1	889	889
+KM002181.1  Salix interior voucher SALIX265_08_07_BAB_242 maturase K (matK) 	KM002181 	Salix interior 	Salicaceae	1	889	889
+KM002183.1  Salix interior voucher SALIX331_08_07_GWA_14360 maturase K (matK) 	KM002183 	Salix interior 	Salicaceae	1	889	889
+KM002189.1  Salix interior x Salix eriocephala voucher SALIX217_08_07_CAN_532065 	KM002189 	Salix interior x Salix eriocephala 	Salicaceae	1	828	828
+KM002191.1  Salix interior x Salix petiolaris voucher SALIX216_08_07_CAN_532063 	KM002191 	Salix interior x Salix petiolaris 	Salicaceae	1	831	831
+KM002199.1  Salix lasiandra voucher SALIX011_08_07_JMS_1124 maturase K (matK) 	KM002199 	Salix lasiandra 	Salicaceae	1	889	889
+KM002229.1  Salix lasiandra voucher SALIX438_08_08_DPQC_0090 maturase K (matK) 	KM002229 	Salix lasiandra 	Salicaceae	1	889	889
+KM002236.1  Salix lasiolepis voucher SALIX371_08_07_GWA_14427 maturase K (matK) 	KM002236 	Salix lasiolepis 	Salicaceae	1	889	889
+KM002242.1  Salix ligulifolia voucher SALIX500_08_08_CEG_03A maturase K (matK) 	KM002242 	Salix ligulifolia 	Salicaceae	1	786	786
+KM002261.1  Salix myrtillifolia voucher SALIX223_08_07_BAB_016 maturase K (matK) 	KM002261 	Salix myrtillifolia 	Salicaceae	1	889	889
+KM002277.1  Salix pentandra voucher SALIX036_08_07_JMS_1320 maturase K (matK) 	KM002277 	Salix pentandra 	Salicaceae	1	889	889
+KM002284.1  Salix planifolia voucher SALIX220_08_07_BAB_013 maturase K (matK) 	KM002284 	Salix planifolia 	Salicaceae	1	889	889
+KM002290.1  Salix planifolia voucher SALIX461_08_08_DPQC_0115 maturase K (matK) 	KM002290 	Salix planifolia 	Salicaceae	1	889	889
+KM002305.1  Salix pseudomonticola voucher SALIX117_08_07_EM_0579 maturase K 	KM002305 	Salix pseudomonticola 	Salicaceae	1	885	885
+KM002310.1  Salix pseudomonticola voucher SALIX474_08_08_DPQC_0129 maturase K 	KM002310 	Salix pseudomonticola 	Salicaceae	1	889	889
+KM002361.1  Salix richardsonii voucher SALIX230_08_07_BAB_031 maturase K (matK) 	KM002361 	Salix richardsonii 	Salicaceae	1	889	889
+KM002369.1  Salix scouleriana voucher SALIX003_08_07_JMS_1050 maturase K (matK) 	KM002369 	Salix scouleriana 	Salicaceae	1	881	881
+KM002372.1  Salix scouleriana voucher SALIX015_08_07_JMS_1142 maturase K (matK) 	KM002372 	Salix scouleriana 	Salicaceae	1	865	865
+KM002380.1  Salix scouleriana voucher SALIX070_08_07_JMS_0869 maturase K (matK) 	KM002380 	Salix scouleriana 	Salicaceae	1	889	889
+KM002396.1  Salix scouleriana voucher SALIX257_08_07_BAB_211 maturase K (matK) 	KM002396 	Salix scouleriana 	Salicaceae	1	835	835
+KM002402.1  Salix x sepulcralis voucher SALIX397_08_08_DPsmallSB maturase K 	KM002402 	Salix x sepulcralis 	Salicaceae	1	889	889
+KM002403.1  Salix x sepulcralis voucher SALIX398_08_08_DPweepSB maturase K 	KM002403 	Salix x sepulcralis 	Salicaceae	1	889	889
+KM002404.1  Salix serissima voucher SALIX327_08_07_GWA_14353 maturase K (matK) 	KM002404 	Salix serissima 	Salicaceae	1	889	889
+KM002412.1  Salix sitchensis voucher SALIX023_08_07_JMS_1281 maturase K (matK) 	KM002412 	Salix sitchensis 	Salicaceae	1	889	889
+KM002431.1  Salix sitchensis voucher SALIX099_08_07_JMS_0957 maturase K (matK) 	KM002431 	Salix sitchensis 	Salicaceae	1	889	889
+KM002437.1  Salix sitchensis voucher SALIX124_08_07_DPQC_0001A maturase K (matK) 	KM002437 	Salix sitchensis 	Salicaceae	1	889	889
+KM002438.1  Salix sitchensis voucher SALIX126_08_07_DPQC_0002 maturase K (matK) 	KM002438 	Salix sitchensis 	Salicaceae	1	889	889
+KM002449.1  Salix sitchensis voucher SALIX210_08_07_DPQC_WhistRd6 maturase K 	KM002449 	Salix sitchensis 	Salicaceae	1	889	889
+KM002450.1  Salix sitchensis voucher SALIX394_08_08_DPYC_03 maturase K (matK) 	KM002450 	Salix sitchensis 	Salicaceae	1	889	889
+KM002460.1  Salix sp. A DMP-2014 maturase K (matK) gene, partial cds; 	KM002460 	Salix sp. A DMP-2014 	Salicaceae	1	889	889
+KM002461.1  Salix sp. B DMP-2014 maturase K (matK) gene, partial cds; 	KM002461 	Salix sp. B DMP-2014 	Salicaceae	1	889	889
+KM002466.1  Salix lasiolepis voucher SALIX410_08_07_PMP_21007 maturase K (matK) 	KM002466 	Salix lasiolepis 	Salicaceae	1	889	889
+KM002480.1  Salix x fragilis voucher SALIX027_08_07_JMS_1303 maturase K (matK) 	KM002480 	Salix x fragilis 	Salicaceae	1	889	889
+KM002481.1  Salix x sepulcralis voucher SALIX019_08_07_JMS_1213 maturase K 	KM002481 	Salix x sepulcralis 	Salicaceae	1	889	889
+KM219834.1  Samyda mexicana voucher UNAM:PB-CIECO 1334 maturase K (matK) gene, 	KM219834 	Casearia mexicana 	Salicaceae	1	811	811
+KM894433.1  Casearia multinervosa voucher 129308787 maturase K (matK) gene, 	KM894433 	Casearia multinervosa 	Salicaceae	1	639	639
+KM894800.1  Homalium alnifolium voucher 129308815 maturase K (matK) gene, 	KM894800 	Homalium alnifolium 	Salicaceae	1	661	661
+KM894887.1  Xylosma terrae-reginae voucher 1076420421 maturase K (matK) gene, 	KM894887 	Xylosma terrae-reginae 	Salicaceae	1	644	644
+KP089211.1  Populus alba var. pyramidalis voucher BOP010169 maturase K (matK) 	KP089211 	Populus alba var. pyramidalis 	Salicaceae	1	751	751
+KP089212.1  Populus alba voucher BOP010184 maturase K (matK) gene, partial cds; 	KP089212 	Populus alba 	Salicaceae	1	751	751
+KP089213.1  Populus candicans voucher BOP010187 maturase K (matK) gene, partial 	KP089213 	Populus candicans 	Salicaceae	1	751	751
+KP089217.1  Populus x beijingensis voucher BOP010177 maturase K (matK) gene, 	KP089217 	Populus x beijingensis 	Salicaceae	1	751	751
+KP089304.1  Salix babylonica voucher BOP010457 maturase K (matK) gene, partial 	KP089304 	Salix babylonica 	Salicaceae	1	751	751
+KP089307.1  Salix sp. BOP010194 maturase K (matK) gene, partial cds; 	KP089307 	Salix sp. BOP010194 	Salicaceae	1	751	751
+KP093375.1  Xylosma longifolia isolate SCBGP072_1 maturase K (matK) gene, 	KP093375 	Xylosma longifolia 	Salicaceae	1	748	748
+KP093376.1  Xylosma longifolia isolate SCBGP072_2 maturase K (matK) gene, 	KP093376 	Xylosma longifolia 	Salicaceae	1	768	768
+KP093513.1  Casearia glomerata isolate SCBGP151_1 maturase K (matK) gene, 	KP093513 	Casearia glomerata 	Salicaceae	1	720	720
+KP093514.1  Casearia glomerata isolate SCBGP151_2 maturase K (matK) gene, 	KP093514 	Casearia glomerata 	Salicaceae	1	768	768
+KP093516.1  Casearia velutina isolate SCBGP153_1 maturase K (matK) gene, partial 	KP093516 	Casearia velutina 	Salicaceae	1	764	764
+KP093840.1  Homalium cochinchinense isolate SCBGP341_1 maturase K (matK) gene, 	KP093840 	Homalium cochinchinense 	Salicaceae	1	768	768
+KP093841.1  Homalium cochinchinense isolate SCBGP341_2 maturase K (matK) gene, 	KP093841 	Homalium cochinchinense 	Salicaceae	1	774	774
+KP094010.1  Flacourtia rukam isolate SCBGP443_1 maturase K (matK) gene, partial 	KP094010 	Flacourtia rukam 	Salicaceae	1	762	762
+KP094029.1  Salix dunnii isolate SCBGP459_1 maturase K (matK) gene, partial cds; 	KP094029 	Salix dunnii 	Salicaceae	1	774	774
+KP094086.1  Scolopia chinensis isolate SCBGP490_1 maturase K (matK) gene, 	KP094086 	Scolopia chinensis 	Salicaceae	1	760	760
+KP094087.1  Scolopia chinensis isolate SCBGP490_2 maturase K (matK) gene, 	KP094087 	Scolopia chinensis 	Salicaceae	1	753	753
+KP094107.1  Salix mesnyi isolate SCBGP504_1 maturase K (matK) gene, partial cds; 	KP094107 	Salix mesnyi 	Salicaceae	1	771	771
+KR530935.1  Homalium ceylanicum isolate BB0218 maturase K (matK) gene, partial 	KR530935 	Homalium ceylanicum 	Salicaceae	1	762	762
+KR530937.1  Homalium ceylanicum isolate J249 maturase K (matK) gene, partial 	KR530937 	Homalium ceylanicum 	Salicaceae	1	760	760
+KT307925.1  Salix sp. MLTV31 maturase K (matK) gene, partial cds; chloroplast. 	KT307925 	Salix sp. MLTV31 	Salicaceae	1	624	624
+KU058674.1  Salicaceae sp. SC-2016 maturase K (matK) gene, partial cds; 	KU058674 	Dianyuea turbinata 	Salicaceae	1	742	742
+KU556661.1  Salix purpurea isolate MGGM_AGERI_161 maturase K (matk) gene, 	KU556661 	Salix purpurea 	Salicaceae	1	827	827
+KU673302.1  Salix herbacea voucher She_1747 maturase K (matK) gene, partial cds; 	KU673302 	Salix herbacea 	Salicaceae	1	756	756
+KU673303.1  Salix herbacea voucher She_1783 maturase K (matK) gene, partial cds; 	KU673303 	Salix herbacea 	Salicaceae	1	793	793
+KU673304.1  Salix herbacea voucher She_1885 maturase K-like (matK) gene, partial 	KU673304 	Salix herbacea 	Salicaceae	1	721	721
+KU673305.1  Salix herbacea voucher She_1176 maturase K (matK) gene, partial cds; 	KU673305 	Salix herbacea 	Salicaceae	1	751	751
+KU673306.1  Salix herbacea voucher She_0553 maturase K (matK) gene, partial cds; 	KU673306 	Salix herbacea 	Salicaceae	1	752	752
+KU673307.1  Salix herbacea voucher She_0556 maturase K (matK) gene, partial cds; 	KU673307 	Salix herbacea 	Salicaceae	1	739	739
+KU673308.1  Salix herbacea voucher She_0559 maturase K (matK) gene, partial cds; 	KU673308 	Salix herbacea 	Salicaceae	1	733	733
+KU673310.1  Salix herbacea voucher She_0138 maturase K (matK) gene, partial cds; 	KU673310 	Salix herbacea 	Salicaceae	1	826	826
+KU673311.1  Salix herbacea voucher She_1111 maturase K (matK) gene, partial cds; 	KU673311 	Salix herbacea 	Salicaceae	1	773	773
+KU673312.1  Salix herbacea voucher She_1133 maturase K (matK) gene, partial cds; 	KU673312 	Salix herbacea 	Salicaceae	1	772	772
+KU673313.1  Salix herbacea voucher She_5109 maturase K (matK) gene, partial cds; 	KU673313 	Salix herbacea 	Salicaceae	1	771	771
+KU673314.1  Salix herbacea voucher She_5132 maturase K (matK) gene, partial cds; 	KU673314 	Salix herbacea 	Salicaceae	1	791	791
+KU673315.1  Salix herbacea voucher She_5176 maturase K (matK) gene, partial cds; 	KU673315 	Salix herbacea 	Salicaceae	1	777	777
+KU673316.1  Salix herbacea voucher She_5194 maturase K (matK) gene, partial cds; 	KU673316 	Salix herbacea 	Salicaceae	1	778	778
+KU673319.1  Salix reticulata voucher Sri_1794 maturase K (matK) gene, partial 	KU673319 	Salix reticulata 	Salicaceae	1	761	761
+KU673320.1  Salix reticulata voucher Sri_1840 maturase K (matK) gene, partial 	KU673320 	Salix reticulata 	Salicaceae	1	759	759
+KU673321.1  Salix reticulata voucher Sri_1173 maturase K (matK) gene, partial 	KU673321 	Salix reticulata 	Salicaceae	1	759	759
+KU673322.1  Salix reticulata voucher Sri_0544 maturase K (matK) gene, partial 	KU673322 	Salix reticulata 	Salicaceae	1	766	766
+KU673324.1  Salix reticulata voucher Sri_0550 maturase K (matK) gene, partial 	KU673324 	Salix reticulata 	Salicaceae	1	765	765
+KU673325.1  Salix reticulata voucher Sri_1891 maturase K (matK) gene, partial 	KU673325 	Salix reticulata 	Salicaceae	1	745	745
+KU673326.1  Salix reticulata voucher Sri_0105 maturase K (matK) gene, partial 	KU673326 	Salix reticulata 	Salicaceae	1	729	729
+KU673328.1  Salix reticulata voucher Sri_1343 maturase K (matK) gene, partial 	KU673328 	Salix reticulata 	Salicaceae	1	824	824
+KU673331.1  Salix reticulata voucher Sri_5077 maturase K (matK) gene, partial 	KU673331 	Salix reticulata 	Salicaceae	1	731	731
+KU673332.1  Salix reticulata voucher Sri_5147 maturase K (matK) gene, partial 	KU673332 	Salix reticulata 	Salicaceae	1	789	789
+KU673334.1  Salix reticulata voucher Sri_5763 maturase K (matK) gene, partial 	KU673334 	Salix reticulata 	Salicaceae	1	760	760
+KU673335.1  Salix reticulata voucher Sri_5783 maturase K (matK) gene, partial 	KU673335 	Salix reticulata 	Salicaceae	1	779	779
+KU673337.1  Salix retusa voucher Sru_1846 maturase K (matK) gene, partial cds; 	KU673337 	Salix retusa 	Salicaceae	1	763	763
+KU673346.1  Salix retusa voucher Sru_5214 maturase K (matK) gene, partial cds; 	KU673346 	Salix retusa 	Salicaceae	1	740	740
+KU673348.1  Salix retusa voucher Sru_5269 maturase K (matK) gene, partial cds; 	KU673348 	Salix retusa 	Salicaceae	1	779	779
+KU673349.1  Salix retusa voucher Sru_5060 maturase K (matK) gene, partial cds; 	KU673349 	Salix retusa 	Salicaceae	1	754	754
+KU673350.1  Salix retusa voucher Sru_5079 maturase K (matK) gene, partial cds; 	KU673350 	Salix retusa 	Salicaceae	1	734	734
+KU673351.1  Salix retusa voucher Sru_5106 maturase K (matK) gene, partial cds; 	KU673351 	Salix retusa 	Salicaceae	1	759	759
+KU673352.1  Salix retusa voucher Sru_5135 maturase K (matK) gene, partial cds; 	KU673352 	Salix retusa 	Salicaceae	1	765	765
+KU673354.1  Salix retusa voucher Sru_5717 maturase K (matK) gene, partial cds; 	KU673354 	Salix retusa 	Salicaceae	1	771	771
+KU673355.1  Salix retusa voucher Sru_5757 maturase K (matK) gene, partial cds; 	KU673355 	Salix retusa 	Salicaceae	1	720	720
+KU673360.1  Salix serpyllifolia voucher Sse_1167 maturase K (matK) gene, partial 	KU673360 	Salix serpyllifolia 	Salicaceae	1	764	764
+KU673361.1  Salix serpyllifolia voucher Sse_0135 maturase K (matK) gene, partial 	KU673361 	Salix serpyllifolia 	Salicaceae	1	765	765
+KU673365.1  Salix serpyllifolia voucher Sse_5097 maturase K (matK) gene, partial 	KU673365 	Salix serpyllifolia 	Salicaceae	1	787	787
+KU673366.1  Salix serpyllifolia voucher Sse_5150 maturase K (matK) gene, partial 	KU673366 	Salix serpyllifolia 	Salicaceae	1	743	743
+KU673367.1  Salix serpyllifolia voucher Sse_5723 maturase K (matK) gene, partial 	KU673367 	Salix serpyllifolia 	Salicaceae	1	749	749
+KU673368.1  Salix serpyllifolia voucher Sse_5766 maturase K (matK) gene, partial 	KU673368 	Salix serpyllifolia 	Salicaceae	1	742	742
+KU673369.1  Salix serpyllifolia voucher Sse_5777 maturase K (matK) gene, partial 	KU673369 	Salix serpyllifolia 	Salicaceae	1	751	751
+KU673370.1  Salix serpyllifolia voucher Sse_5780 maturase K (matK) gene, partial 	KU673370 	Salix serpyllifolia 	Salicaceae	1	723	723
+KX016115.1  Salix aeruginosa isolate ALM_salix_0001 maturase K (matK) gene, 	KX016115 	Salix aeruginosa 	Salicaceae	1	868	868
+KX016116.1  Salix alaxensis isolate ALM_salix_0006 maturase K (matK) gene, 	KX016116 	Salix alaxensis 	Salicaceae	1	868	868
+KX016117.1  Salix alba isolate ALM_salix_0960 maturase K (matK) gene, partial 	KX016117 	Salix alba 	Salicaceae	1	868	868
+KX016120.1  Salix amygdaloides isolate ALM_salix_0010 maturase K (matK) gene, 	KX016120 	Salix amygdaloides 	Salicaceae	1	868	868
+KX016130.1  Salix babylonica isolate ALM_salix_0894 maturase K (matK) gene, 	KX016130 	Salix babylonica 	Salicaceae	1	868	868
+KX016177.1  Salix drummondiana isolate ALM_salix_0080 maturase K (matK) gene, 	KX016177 	Salix drummondiana 	Salicaceae	1	868	868
+KX016185.1  Salix euxina isolate ALM_salix_0916 maturase K (matK) gene, partial 	KX016185 	Salix euxina 	Salicaceae	1	868	868
+KX016191.1  Salix floridana isolate ALM_salix_0100 maturase K (matK) gene, 	KX016191 	Salix floridana 	Salicaceae	1	868	868
+KX016196.1  Salix geyeriana isolate ALM_salix_0104 maturase K (matK) gene, 	KX016196 	Salix geyeriana 	Salicaceae	1	868	868
+KX016213.1  Salix interior isolate ALM_salix_0126 maturase K (matK) gene, 	KX016213 	Salix interior 	Salicaceae	1	868	868
+KX016216.1  Salix jaliscana isolate ALM_salix_1556 maturase K (matK) gene, 	KX016216 	Salix jaliscana 	Salicaceae	1	868	868
+KX016221.1  Salix lasiandra isolate ALM_salix_0137 maturase K (matK) gene, 	KX016221 	Salix lasiandra 	Salicaceae	1	868	868
+KX016223.1  Salix lasiolepis isolate ALM_salix_0140 maturase K (matK) gene, 	KX016223 	Salix lasiolepis 	Salicaceae	1	868	868
+KX016232.1  Salix melanopsis isolate ALM_salix_1403 maturase K (matK) gene, 	KX016232 	Salix melanopsis 	Salicaceae	1	868	868
+KX016234.1  Salix mexicana isolate ALM_salix_2000 maturase K (matK) gene, 	KX016234 	Salix mexicana 	Salicaceae	1	868	868
+KX016235.1  Salix microphylla isolate ALM_salix_0151 maturase K (matK) gene, 	KX016235 	Salix microphylla 	Salicaceae	1	868	868
+KX016253.1  Salix paradoxa isolate ALM_salix_0168 maturase K (matK) gene, 	KX016253 	Salix paradoxa 	Salicaceae	1	868	868
+KX016255.1  Salix pedicellaris isolate ALM_salix_0170 maturase K (matK) gene, 	KX016255 	Salix pedicellaris 	Salicaceae	1	868	868
+KX016258.1  Salix pentandra isolate ALM_salix_1338 maturase K (matK) gene, 	KX016258 	Salix pentandra 	Salicaceae	1	868	868
+KX016262.1  Salix petrophila isolate ALM_salix_0175 maturase K (matK) gene, 	KX016262 	Salix petrophila 	Salicaceae	1	869	869
+KX016285.1  Salix riskindii isolate ALM_salix_1557 maturase K (matK) gene, 	KX016285 	Salix riskindii 	Salicaceae	1	868	868
+KX016292.1  Salix serissima isolate ALM_salix_0215 maturase K (matK) gene, 	KX016292 	Salix serissima 	Salicaceae	1	868	868
+KX016295.1  Salix setchelliana isolate ALM_salix_0217 maturase K (matK) gene, 	KX016295 	Salix setchelliana 	Salicaceae	1	874	874
+KX016306.1  Salix taxifolia isolate ALM_salix_0224 maturase K (matK) gene, 	KX016306 	Salix taxifolia 	Salicaceae	1	868	868
+KX016308.1  Salix thurberi isolate ALM_salix_0227 maturase K (matK) gene, 	KX016308 	Salix thurberi 	Salicaceae	1	868	868
+KX016326.1  Salix atrocinerea isolate ALM_salix_1419 maturase K (matK) gene, 	KX016326 	Salix atrocinerea 	Salicaceae	1	868	868
+KX146253.1  Ludia mauritiana maturase K (matK) gene, partial cds; chloroplast. 	KX146253 	Ludia mauritiana 	Salicaceae	1	819	819
+KX146337.1  Homalium abdessammadii maturase K (matK) gene, partial cds; 	KX146337 	Homalium abdessammadii 	Salicaceae	1	744	744
+KX229949.1  Populus alba voucher OMH0024M maturase K (matK) gene, partial cds; 	KX229949 	Populus alba 	Salicaceae	1	851	851
+KX229957.1  Populus nigra voucher OMHA34M maturase K (matK) gene, partial cds; 	KX229957 	Populus nigra 	Salicaceae	1	851	851
+KX229989.1  Salix caprea voucher OMHD32M maturase K (matK) gene, partial cds; 	KX229989 	Salix caprea 	Salicaceae	1	851	851
+KX229990.1  Salix cinerea voucher OMHA18M maturase K (matK) gene, partial cds; 	KX229990 	Salix cinerea 	Salicaceae	1	851	851
+KX229993.1  Salix fragilis voucher OMHA51M maturase K (matK) gene, partial cds; 	KX229993 	Salix fragilis 	Salicaceae	1	851	851
+KX454939.1  Populus ilicifolia trnK gene, partial sequence; and maturase K 	KX454939 	Populus ilicifolia 	Salicaceae	747	2270	1524
+KX526790.1  Salix arbutifolia voucher CPG00691 maturase K (matK) gene, partial 	KX526790 	Salix arbutifolia 	Salicaceae	1	1170	1170
+KX526791.1  Homalium cochinchinense voucher CPG09689 maturase K (matK) gene, 	KX526791 	Homalium cochinchinense 	Salicaceae	1	1122	1122
+KX676720.1  Populus balsamifera voucher ERM1588 maturase K (matK) gene, partial 	KX676720 	Populus balsamifera 	Salicaceae	1	785	785
+KX677658.1  Populus trichocarpa voucher MF293 maturase K (matK) gene, partial 	KX677658 	Populus trichocarpa 	Salicaceae	1	815	815
+KX925263.1  Populus adenopoda haplotype H1 maturese K (matk) gene, partial cds; 	KX925263 	Populus adenopoda 	Salicaceae	1	775	775
+KY002202.1  Populus euphratica isolate H01 tRNA-Lys (trnK) gene, partial 	KY002202 	Populus euphratica 	Salicaceae	232	1755	1524
+KY002203.1  Populus euphratica isolate H02 tRNA-Lys (trnK) gene, partial 	KY002203 	Populus euphratica 	Salicaceae	232	1755	1524
+KY002204.1  Populus euphratica isolate H03 tRNA-Lys (trnK) gene, partial 	KY002204 	Populus euphratica 	Salicaceae	232	1755	1524
+KY002205.1  Populus euphratica isolate H04 tRNA-Lys (trnK) gene, partial 	KY002205 	Populus euphratica 	Salicaceae	232	1755	1524
+KY002206.1  Populus euphratica isolate H05 tRNA-Lys (trnK) gene, partial 	KY002206 	Populus euphratica 	Salicaceae	232	1755	1524
+KY002207.1  Populus euphratica isolate H06 tRNA-Lys (trnK) gene, partial 	KY002207 	Populus euphratica 	Salicaceae	232	1755	1524
+KY002208.1  Populus euphratica isolate H07 tRNA-Lys (trnK) gene, partial 	KY002208 	Populus euphratica 	Salicaceae	232	1755	1524
+KY002209.1  Populus euphratica isolate H08 tRNA-Lys (trnK) gene, partial 	KY002209 	Populus euphratica 	Salicaceae	232	1755	1524
+KY002210.1  Populus euphratica isolate H09 tRNA-Lys (trnK) gene, partial 	KY002210 	Populus euphratica 	Salicaceae	226	1749	1524
+KY002211.1  Populus euphratica isolate H10 tRNA-Lys (trnK) gene, partial 	KY002211 	Populus euphratica 	Salicaceae	232	1755	1524
+KY002212.1  Populus euphratica isolate H11 tRNA-Lys (trnK) gene, partial 	KY002212 	Populus euphratica 	Salicaceae	232	1755	1524
+KY002213.1  Populus euphratica isolate H12 tRNA-Lys (trnK) gene, partial 	KY002213 	Populus euphratica 	Salicaceae	232	1755	1524
+KY002214.1  Populus euphratica isolate H13 tRNA-Lys (trnK) gene, partial 	KY002214 	Populus euphratica 	Salicaceae	232	1755	1524
+KY002215.1  Populus euphratica isolate H14 tRNA-Lys (trnK) gene, partial 	KY002215 	Populus euphratica 	Salicaceae	232	1755	1524
+KY002216.1  Populus euphratica isolate H15 tRNA-Lys (trnK) gene, partial 	KY002216 	Populus euphratica 	Salicaceae	232	1755	1524
+KY002217.1  Populus euphratica isolate H16 tRNA-Lys (trnK) gene, partial 	KY002217 	Populus euphratica 	Salicaceae	232	1755	1524
+KY002218.1  Populus euphratica isolate H17 tRNA-Lys (trnK) gene, partial 	KY002218 	Populus euphratica 	Salicaceae	232	1755	1524
+KY002219.1  Populus euphratica isolate H18 tRNA-Lys (trnK) gene, partial 	KY002219 	Populus euphratica 	Salicaceae	232	1755	1524
+KY002220.1  Populus euphratica isolate H19 tRNA-Lys (trnK) gene, partial 	KY002220 	Populus euphratica 	Salicaceae	232	1755	1524
+KY002221.1  Populus euphratica isolate H20 tRNA-Lys (trnK) gene, partial 	KY002221 	Populus euphratica 	Salicaceae	232	1755	1524
+KY002225.1  Populus pruinosa isolate H24 tRNA-Lys (trnK) gene, partial sequence; 	KY002225 	Populus pruinosa 	Salicaceae	232	1755	1524
+KY002226.1  Populus pruinosa isolate H25 tRNA-Lys (trnK) gene, partial sequence; 	KY002226 	Populus pruinosa 	Salicaceae	232	1755	1524
+KY002227.1  Populus pruinosa isolate H26 tRNA-Lys (trnK) gene, partial sequence; 	KY002227 	Populus pruinosa 	Salicaceae	232	1755	1524
+KY002228.1  Populus pruinosa isolate H27 tRNA-Lys (trnK) gene, partial sequence; 	KY002228 	Populus pruinosa 	Salicaceae	232	1755	1524
+KY002229.1  Populus pruinosa isolate H28 tRNA-Lys (trnK) gene, partial sequence; 	KY002229 	Populus pruinosa 	Salicaceae	232	1755	1524
+KY002230.1  Populus ilicifolia isolate H29 tRNA-Lys (trnK) gene, partial 	KY002230 	Populus ilicifolia 	Salicaceae	232	1755	1524
+KY196685.1  Idesia polycarpa maturase K (matK) gene, complete cds; chloroplast. 	KY196685 	Idesia polycarpa 	Salicaceae	243	1775	1533
+KY196686.1  Itoa orientalis maturase K (matK) gene, partial cds; chloroplast. 	KY196686 	Itoa orientalis 	Salicaceae	1	536	536
+KY196687.1  Poliothyrsis sinensis maturase K (matK) gene, complete cds; 	KY196687 	Poliothyrsis sinensis 	Salicaceae	236	1768	1533
+KY196688.1  Populus mexicana maturase K (matK) gene, complete cds; chloroplast. 	KY196688 	Populus mexicana 	Salicaceae	236	1768	1533
+KY285946.1  Populus davidiana haplotype Hap1 maturese K (matK) gene, partial 	KY285946 	Populus davidiana 	Salicaceae	1	741	741
+KY285947.1  Populus davidiana haplotype Hap2 maturese K (matK) gene, partial 	KY285947 	Populus davidiana 	Salicaceae	1	741	741
+KY285948.1  Populus davidiana haplotype Hap3 maturese K (matK) gene, partial 	KY285948 	Populus davidiana 	Salicaceae	1	741	741
+KY285969.1  Populus rotundifolia haplotype Hap2 maturese K (matK) gene, partial 	KY285969 	Populus rotundifolia 	Salicaceae	1	741	741
+KY285970.1  Populus rotundifolia haplotype Hap3 maturese K (matK) gene, partial 	KY285970 	Populus rotundifolia 	Salicaceae	1	741	741
+LC091207.1  Homalium glandulosum chloroplast matK gene for maturase K, partial 	LC091207 	Homalium glandulosum 	Salicaceae	1	801	801
+LC219184.1  Salix eriocarpa chloroplast matK gene for maturase K, partial cds, 	LC219184 	Salix eriocarpa 	Salicaceae	1	792	792
+LC219245.1  Salix eriocarpa chloroplast matK gene for maturase K, partial cds, 	LC219245 	Salix eriocarpa 	Salicaceae	1	807	807
+LC219267.1  Salix nipponica chloroplast matK gene for maturase K, partial cds, 	LC219267 	Salix nipponica 	Salicaceae	1	783	783
+LC219286.1  Salix chaenomeloides chloroplast matK gene for maturase K, partial 	LC219286 	Salix chaenomeloides 	Salicaceae	1	792	792
+LC219309.1  Salix chaenomeloides chloroplast matK gene for maturase K, partial 	LC219309 	Salix chaenomeloides 	Salicaceae	1	783	783
+LC219316.1  Salix chaenomeloides chloroplast matK gene for maturase K, partial 	LC219316 	Salix chaenomeloides 	Salicaceae	1	789	789
+LT671645.1  Populus alba chloroplast partial matK gene for maturase K. 	LT671645 	Populus alba 	Salicaceae	1	728	728
+LT671646.1  Populus tremula chloroplast partial matK gene for maturase K. 	LT671646 	Populus tremula 	Salicaceae	1	728	728
+MF418998.1  Flacourtia sp. JH-2017 isolate 06-5360 maturase K (matK) gene, 	MF418998 	Flacourtia sp. JH-2017 	Salicaceae	1	833	833
+MF418999.1  Scolopia sp. JH-2017 isolate 10-5225 maturase K (matK) gene, partial 	MF418999 	Scolopia sp. JH-2017 	Salicaceae	1	833	833
+MF419000.1  Homalium sp. JH-2017 isolate 25-0035 maturase K (matK) gene, partial 	MF419000 	Homalium sp. JH-2017 	Salicaceae	1	833	833
+MF419001.1  Casearia sp. JH-2017 isolate 24-5921 maturase K (matK) gene, partial 	MF419001 	Casearia sp. JH-2017 	Salicaceae	1	833	833
+MF513600.1  Populus adenopoda clone B1A7 tRNA-Lys (trnK) gene, intron; and 	MF513600 	Populus adenopoda 	Gunneridae	726	2258	1533
+MF513612.1  Populus adenopoda clone BE5 tRNA-Lys (trnK) gene, intron; and 	MF513612 	Populus adenopoda 	Gunneridae	726	2258	1533
+MF513617.1  Populus adenopoda clone BH7 tRNA-Lys (trnK) gene, intron; and 	MF513617 	Populus adenopoda 	Gunneridae	726	2258	1533
+MF513618.1  Populus alba clone B1A8 tRNA-Lys (trnK) gene, intron; and maturase K 	MF513618 	Populus alba 	Gunneridae	725	2257	1533
+MF513621.1  Populus alba clone B1G9 tRNA-Lys (trnK) gene, intron; and maturase K 	MF513621 	Populus alba 	Gunneridae	727	2259	1533
+MF513622.1  Populus alba clone BA7 tRNA-Lys (trnK) gene, intron; and maturase K 	MF513622 	Populus alba 	Gunneridae	726	2258	1533
+MF513624.1  Populus alba clone BC7 tRNA-Lys (trnK) gene, intron; and maturase K 	MF513624 	Populus alba 	Gunneridae	726	2258	1533
+MF513626.1  Populus alba clone BD8 tRNA-Lys (trnK) gene, intron; and maturase K 	MF513626 	Populus alba 	Gunneridae	726	2258	1533
+MF513628.1  Populus alba clone BE8 tRNA-Lys (trnK) gene, intron; and maturase K 	MF513628 	Populus alba 	Gunneridae	725	2257	1533
+MF513629.1  Populus alba clone BF7 tRNA-Lys (trnK) gene, intron; and maturase K 	MF513629 	Populus alba 	Gunneridae	726	2258	1533
+MF513630.1  Populus alba clone BF8 tRNA-Lys (trnK) gene, intron; and maturase K 	MF513630 	Populus alba 	Gunneridae	725	2257	1533
+MF513633.1  Populus alba clone BA4 tRNA-Lys (trnK) gene, intron; and maturase K 	MF513633 	Populus alba 	Gunneridae	705	2237	1533
+MF513634.1  Populus alba clone BB4 tRNA-Lys (trnK) gene, intron; and maturase K 	MF513634 	Populus alba 	Gunneridae	705	2237	1533
+MF513638.1  Populus grandidentata clone BA1 tRNA-Lys (trnK) gene, intron; and 	MF513638 	Populus grandidentata 	Gunneridae	726	2258	1533
+MF513645.1  Populus grandidentata clone BH1 tRNA-Lys (trnK) gene, intron; and 	MF513645 	Populus grandidentata 	Gunneridae	726	2258	1533
+MF513646.1  Populus hopeiensis clone BA8 tRNA-Lys (trnK) gene, intron; and 	MF513646 	Populus hopeiensis 	Gunneridae	732	2264	1533
+MF513648.1  Populus hopeiensis clone BC8 tRNA-Lys (trnK) gene, intron; and 	MF513648 	Populus hopeiensis 	Gunneridae	733	2265	1533
+MF513649.1  Populus hopeiensis clone BD9 tRNA-Lys (trnK) gene, intron; and 	MF513649 	Populus hopeiensis 	Gunneridae	733	2265	1533
+MF513657.1  Populus hopeiensis clone B2A10 tRNA-Lys (trnK) gene, intron; and 	MF513657 	Populus hopeiensis 	Gunneridae	732	2264	1533
+MF513658.1  Populus hopeiensis clone B2A9 tRNA-Lys (trnK) gene, intron; and 	MF513658 	Populus hopeiensis 	Gunneridae	732	2264	1533
+MF513660.1  Populus hopeiensis clone B2D10 tRNA-Lys (trnK) gene, intron; and 	MF513660 	Populus hopeiensis 	Gunneridae	732	2264	1533
+MF513666.1  Populus hopeiensis clone B2H10 tRNA-Lys (trnK) gene, intron; and 	MF513666 	Populus hopeiensis 	Gunneridae	733	2265	1533
+MF513669.1  Populus hopeiensis clone B3E12 tRNA-Lys (trnK) gene, intron; and 	MF513669 	Populus hopeiensis 	Gunneridae	725	2257	1533
+MF513670.1  Populus hopeiensis clone bjzwy tRNA-Lys (trnK) gene, intron; and 	MF513670 	Populus hopeiensis 	Gunneridae	733	2265	1533
+MF513693.1  Populus hopeiensis clone z12 tRNA-Lys (trnK) gene, intron; and 	MF513693 	Populus hopeiensis 	Gunneridae	734	2266	1533
+MF513716.1  Populus tomentosa clone B1C1 tRNA-Lys (trnK) gene, intron; and 	MF513716 	Populus tomentosa 	Gunneridae	726	2258	1533
+MF513724.1  Populus tomentosa clone B1D2 tRNA-Lys (trnK) gene, intron; and 	MF513724 	Populus tomentosa 	Gunneridae	727	2259	1533
+MF513760.1  Populus tomentosa clone B2A3 tRNA-Lys (trnK) gene, intron; and 	MF513760 	Populus tomentosa 	Gunneridae	725	2257	1533
+MF513771.1  Populus tomentosa clone B2B6 tRNA-Lys (trnK) gene, intron; and 	MF513771 	Populus tomentosa 	Gunneridae	725	2257	1533
+MF513786.1  Populus tomentosa clone B2D5 tRNA-Lys (trnK) gene, intron; and 	MF513786 	Populus tomentosa 	Gunneridae	726	2258	1533
+MF513790.1  Populus tomentosa clone B2E1 tRNA-Lys (trnK) gene, intron; and 	MF513790 	Populus tomentosa 	Gunneridae	728	2260	1533
+MF513821.1  Populus tomentosa clone B2H5 tRNA-Lys (trnK) gene, intron; and 	MF513821 	Populus tomentosa 	Gunneridae	724	2256	1533
+MF513910.1  Populus tomentosa clone B3H3 tRNA-Lys (trnK) gene, intron; and 	MF513910 	Populus tomentosa 	Gunneridae	731	2263	1533
+MF694875.1  Salix tetrasperma voucher swat34 maturase K (matK) gene, partial 	MF694875 	Salix tetrasperma 	Salicaceae	1	782	782
+MG202418.1  Populus davidiana clone B1A10 tRNA-Lys (trnK) gene, intron; and 	MG202418 	Populus davidiana 	Gunneridae	732	2264	1533
+MG202420.1  Populus davidiana clone B1B10 tRNA-Lys (trnK) gene, intron; and 	MG202420 	Populus davidiana 	Gunneridae	726	2258	1533
+MG202423.1  Populus davidiana clone B1C11 tRNA-Lys (trnK) gene, intron; and 	MG202423 	Populus davidiana 	Gunneridae	733	2265	1533
+MG202426.1  Populus davidiana clone B1E11 tRNA-Lys (trnK) gene, intron; and 	MG202426 	Populus davidiana 	Gunneridae	732	2264	1533
+MG202427.1  Populus davidiana clone B1F11 tRNA-Lys (trnK) gene, intron; and 	MG202427 	Populus davidiana 	Gunneridae	732	2264	1533
+MG202428.1  Populus davidiana clone B1G10 tRNA-Lys (trnK) gene, intron; and 	MG202428 	Populus davidiana 	Gunneridae	732	2264	1533
+MG202431.1  Populus davidiana clone BH10 tRNA-Lys (trnK) gene, intron; and 	MG202431 	Populus davidiana 	Gunneridae	725	2257	1533
+MG202432.1  Populus davidiana clone Sb2 tRNA-Lys (trnK) gene, intron; and 	MG202432 	Populus davidiana 	Gunneridae	723	2255	1533
+MG202433.1  Populus davidiana clone Sc2 tRNA-Lys (trnK) gene, intron; and 	MG202433 	Populus davidiana 	Gunneridae	723	2255	1533
+MG202434.1  Populus davidiana clone Sc3 tRNA-Lys (trnK) gene, intron; and 	MG202434 	Populus davidiana 	Gunneridae	723	2255	1533
+MG202435.1  Populus davidiana clone Sd2 tRNA-Lys (trnK) gene, intron; and 	MG202435 	Populus davidiana 	Gunneridae	723	2255	1533
+MG202436.1  Populus davidiana clone Sd3 tRNA-Lys (trnK) gene, intron; and 	MG202436 	Populus davidiana 	Gunneridae	723	2255	1533
+MG202438.1  Populus davidiana clone Se2 tRNA-Lys (trnK) gene, intron; and 	MG202438 	Populus davidiana 	Gunneridae	723	2255	1533
+MG202440.1  Populus davidiana clone Sf2 tRNA-Lys (trnK) gene, intron; and 	MG202440 	Populus davidiana 	Gunneridae	723	2255	1533
+MG202442.1  Populus davidiana clone Sg2 tRNA-Lys (trnK) gene, intron; and 	MG202442 	Populus davidiana 	Gunneridae	723	2255	1533
+MG202446.1  Populus lasiocarpa clone P.lasiocarpa tRNA-Lys (trnK) gene, intron; 	MG202446 	Populus lasiocarpa 	Gunneridae	736	2268	1533
+MG202447.1  Populus tremuloides clone Sa3 tRNA-Lys (trnK) gene, intron; and 	MG202447 	Populus tremuloides 	Gunneridae	723	2255	1533
+MG202450.1  Populus tremuloides clone Sc4 tRNA-Lys (trnK) gene, intron; and 	MG202450 	Populus tremuloides 	Gunneridae	723	2255	1533
+MG202453.1  Populus tremuloides clone Sd5 tRNA-Lys (trnK) gene, intron; and 	MG202453 	Populus tremuloides 	Gunneridae	723	2255	1533
+MG202461.1  Populus tremula clone Sa1 tRNA-Lys (trnK) gene, intron; and maturase 	MG202461 	Populus tremula 	Gunneridae	723	2255	1533
+MG202465.1  Populus tremula clone Sd1 tRNA-Lys (trnK) gene, intron; and maturase 	MG202465 	Populus tremula 	Gunneridae	723	2255	1533
+MG202471.1  Populus tremula clone Sg3 tRNA-Lys (trnK) gene, intron; and maturase 	MG202471 	Populus tremula 	Gunneridae	723	2255	1533
+MG220592.1  Salix nigra voucher BC-2011-36033 maturase K (matK) gene, partial 	MG220592 	Salix nigra 	Salicaceae	1	824	824
+MG220607.1  Salix amygdaloides voucher GA-Coll-2010-34112 maturase K (matK) 	MG220607 	Salix amygdaloides 	Salicaceae	1	802	802
+MG220610.1  Salix glauca voucher BC-2011-36035 maturase K (matK) gene, partial 	MG220610 	Salix glauca 	Salicaceae	1	824	824
+MG220613.1  Salix discolor voucher GA-Coll-2010-34121 maturase K (matK) gene, 	MG220613 	Salix discolor 	Salicaceae	1	801	801
+MG220618.1  Salix lucida voucher BC-2011-36049 maturase K (matK) gene, partial 	MG220618 	Salix lucida 	Salicaceae	1	824	824
+MG220622.1  Salix triandra voucher BC-2011-36099 maturase K (matK) gene, partial 	MG220622 	Salix triandra 	Salicaceae	1	809	809
+MG220734.1  Salix alba voucher BC-2011-36078 maturase K (matK) gene, partial 	MG220734 	Salix alba 	Salicaceae	1	824	824
+MG220744.1  Salix glauca voucher GA-Coll-2010-34034 maturase K (matK) gene, 	MG220744 	Salix glauca 	Salicaceae	1	816	816
+MG220751.1  Salix uva-ursi voucher MLTI05 maturase K (matK) gene, partial cds; 	MG220751 	Salix uva-ursi 	Salicaceae	1	787	787
+MG220771.1  Salix matsudana voucher BC-2011-36039 maturase K (matK) gene, 	MG220771 	Salix matsudana 	Salicaceae	1	824	824
+MG220830.1  Salix interior voucher BC-2011-36046 maturase K (matK) gene, partial 	MG220830 	Salix interior 	Salicaceae	1	824	824
+MG220831.1  Populus tremuloides voucher RS137 maturase K (matK) gene, partial 	MG220831 	Populus tremuloides 	Salicaceae	1	798	798
+MG220922.1  Populus tremuloides voucher RS138 maturase K (matK) gene, partial 	MG220922 	Populus tremuloides 	Salicaceae	1	808	808
+MG220929.1  Populus alba voucher JAG 0602 maturase K (matK) gene, partial cds; 	MG220929 	Populus alba 	Salicaceae	1	789	789
+MG220952.1  Salix alba voucher BC-2011-36111 maturase K (matK) gene, partial 	MG220952 	Salix alba 	Salicaceae	1	824	824
+MG220958.1  Salix barclayi voucher GA-Coll-2010-34161 maturase K (matK) gene, 	MG220958 	Salix barclayi 	Salicaceae	1	824	824
+MG220970.1  Salix nigra voucher GA-Coll-2010-34089 maturase K (matK) gene, 	MG220970 	Salix nigra 	Salicaceae	1	809	809
+MG221017.1  Salix alaxensis voucher GA-Coll-2010-34123 maturase K (matK) gene, 	MG221017 	Salix alaxensis 	Salicaceae	1	824	824
+MG221029.1  Salix discolor voucher GA-Coll-2010-34109 maturase K (matK) gene, 	MG221029 	Salix discolor 	Salicaceae	1	824	824
+MG221071.1  Salix lucida voucher BC-2011-36050 maturase K (matK) gene, partial 	MG221071 	Salix lucida 	Salicaceae	1	824	824
+MG221085.1  Populus balsamifera voucher RBG 156 maturase K (matK) gene, partial 	MG221085 	Populus balsamifera 	Salicaceae	1	794	794
+MG221092.1  Salix alba var. vitellina voucher CCDB-21227-H02 maturase K (matK) 	MG221092 	Salix alba var. vitellina 	Salicaceae	1	805	805
+MG426214.1  Populus davidiana clone DLSA maturase K (matK) gene, complete cds; 	MG426214 	Populus davidiana 	Salicaceae	263	1795	1533
+MG426216.1  Populus davidiana clone DLSC maturase K (matK) gene, complete cds; 	MG426216 	Populus davidiana 	Salicaceae	263	1795	1533
+MG426225.1  Populus davidiana clone SYYCJa maturase K (matK) gene, complete cds; 	MG426225 	Populus davidiana 	Salicaceae	263	1795	1533
+MG426232.1  Populus davidiana clone SYYCTA maturase K (matK) gene, complete cds; 	MG426232 	Populus davidiana 	Salicaceae	277	1809	1533
+MG426233.1  Populus davidiana clone SYYCTB maturase K (matK) gene, complete cds; 	MG426233 	Populus davidiana 	Salicaceae	263	1795	1533
+MG426236.1  Populus davidiana clone SYYCTF maturase K (matK) gene, complete cds; 	MG426236 	Populus davidiana 	Salicaceae	277	1809	1533
+MG426246.1  Populus davidiana clone WC1 maturase K (matK) gene, complete cds; 	MG426246 	Populus davidiana 	Salicaceae	277	1809	1533
+MG426253.1  Populus davidiana clone WC9 maturase K (matK) gene, complete cds; 	MG426253 	Populus davidiana 	Salicaceae	263	1795	1533
+MG426270.1  Populus davidiana clone BJA maturase K (matK) gene, complete cds; 	MG426270 	Populus davidiana 	Salicaceae	277	1809	1533
+MG426271.1  Populus davidiana clone BJB maturase K (matK) gene, complete cds; 	MG426271 	Populus davidiana 	Salicaceae	277	1809	1533
+MG426278.1  Populus davidiana clone HL4 maturase K (matK) gene, complete cds; 	MG426278 	Populus davidiana 	Salicaceae	277	1809	1533
+MG426301.1  Populus davidiana clone W2 maturase K (matK) gene, complete cds; 	MG426301 	Populus davidiana 	Salicaceae	277	1809	1533
+MG426312.1  Populus davidiana clone sybijb maturase K (matK) gene, complete cds; 	MG426312 	Populus davidiana 	Salicaceae	263	1795	1533
+MG426316.1  Populus davidiana clone SYBIJF maturase K (matK) gene, complete cds; 	MG426316 	Populus davidiana 	Salicaceae	277	1809	1533
+MG426327.1  Populus davidiana clone WNE maturase K (matK) gene, complete cds; 	MG426327 	Populus davidiana 	Salicaceae	277	1809	1533
+MG426362.1  Populus davidiana clone jbg4 maturase K (matK) gene, complete cds; 	MG426362 	Populus davidiana 	Salicaceae	277	1809	1533
+MG426373.1  Populus davidiana clone J1 maturase K (matK) gene, complete cds; 	MG426373 	Populus davidiana 	Salicaceae	277	1809	1533
+MG426374.1  Populus davidiana clone J2 maturase K (matK) gene, complete cds; 	MG426374 	Populus davidiana 	Salicaceae	277	1809	1533
+MG426387.1  Populus davidiana clone ZGN1 maturase K (matK) gene, complete cds; 	MG426387 	Populus davidiana 	Salicaceae	277	1809	1533
+MG426388.1  Populus davidiana clone ZGN2 maturase K (matK) gene, complete cds; 	MG426388 	Populus davidiana 	Salicaceae	277	1809	1533
+MG426413.1  Populus davidiana clone BTM5 maturase K (matK) gene, complete cds; 	MG426413 	Populus davidiana 	Salicaceae	277	1809	1533
+MG426425.1  Populus davidiana clone BTM17 maturase K (matK) gene, complete cds; 	MG426425 	Populus davidiana 	Salicaceae	277	1809	1533
+MG426426.1  Populus davidiana clone Mrs2 maturase K (matK) gene, complete cds; 	MG426426 	Populus davidiana 	Salicaceae	263	1795	1533
+MG426430.1  Populus davidiana clone Mrs6 maturase K (matK) gene, complete cds; 	MG426430 	Populus davidiana 	Salicaceae	263	1795	1533
+MG426431.1  Populus davidiana clone Mrs7 maturase K (matK) gene, complete cds; 	MG426431 	Populus davidiana 	Salicaceae	277	1809	1533
+MG426433.1  Populus davidiana clone Mrs9 maturase K (matK) gene, complete cds; 	MG426433 	Populus davidiana 	Salicaceae	263	1795	1533
+MG426434.1  Populus davidiana clone Mrs10 maturase K (matK) gene, complete cds; 	MG426434 	Populus davidiana 	Salicaceae	263	1795	1533
+MG426444.1  UNVERIFIED: Populus davidiana clone TH9 maturase K-like (matK) gene, 	MG426444 	Populus davidiana 	Salicaceae	263	1794	1532
+MG426470.1  Populus davidiana clone WT16 maturase K (matK) gene, complete cds; 	MG426470 	Populus davidiana 	Salicaceae	277	1809	1533
+MG426481.1  Populus davidiana clone XLS1 maturase K (matK) gene, complete cds; 	MG426481 	Populus davidiana 	Salicaceae	277	1809	1533
+MG426489.1  Populus davidiana clone XLS10 maturase K (matK) gene, complete cds; 	MG426489 	Populus davidiana 	Salicaceae	277	1809	1533
+MG426503.1  Populus davidiana clone XN1 maturase K (matK) gene, complete cds; 	MG426503 	Populus davidiana 	Salicaceae	277	1809	1533
+MG426506.1  Populus davidiana clone XN4 maturase K (matK) gene, complete cds; 	MG426506 	Populus davidiana 	Salicaceae	291	1823	1533
+MG426508.1  Populus davidiana clone FS1 maturase K (matK) gene, complete cds; 	MG426508 	Populus davidiana 	Salicaceae	277	1809	1533
+MG426510.1  Populus davidiana clone FS3 maturase K (matK) gene, complete cds; 	MG426510 	Populus davidiana 	Salicaceae	263	1795	1533
+MG426513.1  Populus davidiana clone FS6 maturase K (matK) gene, complete cds; 	MG426513 	Populus davidiana 	Gunneridae	263	1795	1533
+MG426536.1  Populus davidiana clone LHS10 maturase K (matK) gene, complete cds; 	MG426536 	Populus davidiana 	Gunneridae	263	1795	1533
+MG426539.1  Populus davidiana clone LHS13 maturase K (matK) gene, complete cds; 	MG426539 	Populus davidiana 	Gunneridae	263	1795	1533
+MG426540.1  Populus davidiana clone LHS14 maturase K (matK) gene, complete cds; 	MG426540 	Populus davidiana 	Gunneridae	263	1795	1533
+MG426546.1  Populus davidiana clone LHS20 maturase K (matK) gene, complete cds; 	MG426546 	Populus davidiana 	Gunneridae	263	1795	1533
+MG718792.1  Xylosma glaberrima isolate PECB250 maturase K (matK) gene, partial 	MG718792 	Xylosma glaberrima 	Salicaceae	1	755	755
+MG718929.1  Casearia gossypiosperma isolate PEEC030 maturase K (matK) gene, 	MG718929 	Casearia gossypiosperma 	Salicaceae	1	804	804
+MG718930.1  Casearia sylvestris isolate PEEC031 maturase K (matK) gene, partial 	MG718930 	Casearia sylvestris 	Salicaceae	1	881	881
+MG719008.1  Prockia crucis isolate PEEC120 maturase K-like (matK) gene, partial 	MG719008 	Prockia crucis 	Salicaceae	1	832	832
+MG719037.1  Xylosma tweediana isolate PEEC156 maturase K (matK) gene, partial 	MG719037 	Xylosma tweediana 	Salicaceae	1	808	808
+MG772997.1  Salix caprea isolate P20 maturase K (matK) gene, partial cds; 	MG772997 	Salix caprea 	Salicaceae	1	832	832
+MG772998.1  Salix matsudana isolate P15 maturase K (matK) gene, partial cds; 	MG772998 	Salix matsudana 	Salicaceae	1	832	832
+MG772999.1  Populus x beijingensis isolate P10 maturase K (matK) gene, partial 	MG772999 	Populus x beijingensis 	Salicaceae	1	832	832
+MG773000.1  Populus tomentosa isolate P1-1 maturase K (matK) gene, partial cds; 	MG773000 	Populus tomentosa 	Salicaceae	1	832	832
+MG773001.1  Populus x canadensis isolate P1-2 maturase K (matK) gene, partial 	MG773001 	Populus x canadensis 	Salicaceae	1	832	832
+MG910348.1  Homalium cf. foetidum KR1778 maturase K (matK) gene, partial cds; 	MG910348 	Homalium cf. foetidum KR1778 	Salicaceae	1	510	510
+MG910349.1  Scolopia spinosa voucher KR1871 maturase K (matK) gene, partial cds; 	MG910349 	Scolopia spinosa 	Salicaceae	1	510	510
+MG947031.1  Azara sp. MS-2018 maturase K (matK) gene, partial cds; chloroplast. 	MG947031 	Azara sp. MS-2018 	Salicaceae	1	860	860
+MH024594.1  UNVERIFIED: Hasseltia floribunda voucher 1083 maturase K-like (matK) 	MH024594 	Hasseltia floribunda 	Salicaceae	1	868	868
+MH024636.1  UNVERIFIED: Salix humboldtiana voucher 5960 maturase K-like (matK) 	MH024636 	Salix humboldtiana 	Salicaceae	1	891	891
+MH024655.1  UNVERIFIED: Banara guianensis voucher 6463 maturase K-like (matK) 	MH024655 	Banara guianensis 	Salicaceae	1	769	769
+MH024825.1  UNVERIFIED: Ryania speciosa voucher 6891 maturase K-like (matK) 	MH024825 	Ryania speciosa 	Salicaceae	1	835	835
+MH116836.1  Salix balfouriana voucher YLDP268A maturase K (matK) gene, partial 	MH116836 	Salix balfouriana 	Salicaceae	1	705	705
+MH116837.1  Salix delavayana voucher YLDP277A maturase K (matK) gene, partial 	MH116837 	Salix delavayana 	Salicaceae	1	714	714
+MH116838.1  Salix delavayana voucher YLDP277B maturase K (matK) gene, partial 	MH116838 	Salix delavayana 	Salicaceae	1	715	715
+MH116839.1  Salix delavayana voucher YLDP277D maturase K (matK) gene, partial 	MH116839 	Salix delavayana 	Salicaceae	1	716	716
+MH116840.1  Salix dibapha voucher YLDP277E maturase K (matK) gene, partial cds; 	MH116840 	Salix dibapha 	Salicaceae	1	672	672
+MH116841.1  Salix eriostachya voucher YLDP277C maturase K (matK) gene, partial 	MH116841 	Salix eriostachya 	Salicaceae	1	716	716
+MH574085.1  Populus simonii voucher 98S01 maturase K (matK) gene, partial cds; 	MH574085 	Populus simonii 	Gunneridae	1	819	819
+MH574086.1  Populus trinervis voucher AK001 maturase K (matK) gene, partial cds; 	MH574086 	Populus trinervis 	Gunneridae	1	819	819
+MH574099.1  Populus x beijingensis voucher ABJ001 maturase K (matK) gene, 	MH574099 	Populus x beijingensis 	Gunneridae	1	819	819
+MH574103.1  Populus haoana voucher DD003 maturase K (matK) gene, partial cds; 	MH574103 	Populus haoana 	Gunneridae	1	819	819
+MH574113.1  Populus euphratica voucher HU001 maturase K (matK) gene, partial 	MH574113 	Populus euphratica 	Gunneridae	1	810	810
+MH574126.1  Populus maximowiczii voucher TLY001 maturase K (matK) gene, partial 	MH574126 	Populus maximowiczii 	Gunneridae	1	819	819
+MH574131.1  Populus rotundifolia var. duclouxiana voucher QW003 maturase K 	MH574131 	Populus rotundifolia var. duclouxiana 	Gunneridae	1	819	819
+MH574138.1  Populus cf. ciliata APZ-2019 voucher WZ001 maturase K (matK) gene, 	MH574138 	Populus cf. ciliata APZ-2019 	Gunneridae	1	819	819
+MH574147.1  Populus alba voucher LYB001 maturase K (matK) gene, partial cds; 	MH574147 	Populus alba 	Gunneridae	1	819	819
+MH574156.1  Populus nigra var. italica voucher AZT001 maturase K (matK) gene, 	MH574156 	Populus nigra var. italica 	Gunneridae	1	819	819
+MH574158.1  Populus tomentosa voucher MB001 maturase K (matK) gene, partial cds; 	MH574158 	Populus tomentosa 	Gunneridae	1	819	819
+MH574162.1  Populus szechuanica var. tibetica voucher ZB002 maturase K (matK) 	MH574162 	Populus szechuanica var. tibetica 	Gunneridae	1	819	819
+MH574165.1  Salix matsudana voucher SR002 maturase K (matK) gene, partial cds; 	MH574165 	Salix matsudana 	Gunneridae	1	819	819
+MH659041.1  Salix variegata voucher Ge130870 maturase K (matK) gene, partial 	MH659041 	Salix variegata 	Gunneridae	1	794	794
+MH659307.1  Salix sinica voucher ZK376 maturase K (matK) gene, partial cds; 	MH659307 	Salix sinica 	Gunneridae	1	793	793
+MH659420.1  Idesia polycarpa voucher HZ302 maturase K (matK) gene, partial cds; 	MH659420 	Idesia polycarpa 	Gunneridae	1	843	843
+MH659431.1  Idesia polycarpa voucher NJ086 maturase K (matK) gene, partial cds; 	MH659431 	Idesia polycarpa 	Gunneridae	1	870	870
+MH659439.1  Salix wilsonii voucher NJ202 maturase K (matK) gene, partial cds; 	MH659439 	Salix wilsonii 	Gunneridae	1	879	879
+MH659469.1  Salix babylonica voucher Q015 maturase K (matK) gene, partial cds; 	MH659469 	Salix babylonica 	Gunneridae	1	808	808
+MH659691.1  Populus ningshanica voucher Q256 maturase K (matK) gene, partial 	MH659691 	Populus ningshanica 	Gunneridae	1	840	840
+MH659827.1  Populus tremula voucher Q407 maturase K (matK) gene, partial cds; 	MH659827 	Populus tremula 	Gunneridae	1	812	812
+MH659865.1  Salix cupularis voucher Q447 maturase K (matK) gene, partial cds; 	MH659865 	Salix cupularis 	Gunneridae	1	802	802
+MH659952.1  Populus cathayana voucher Q542 maturase K (matK) gene, partial cds; 	MH659952 	Populus cathayana 	Gunneridae	1	869	869
+MH660004.1  Populus simonii voucher Q603 maturase K (matK) gene, partial cds; 	MH660004 	Populus simonii 	Gunneridae	1	795	795
+MH660105.1  Salix viminalis voucher Q711 maturase K (matK) gene, partial cds; 	MH660105 	Salix viminalis 	Gunneridae	1	798	798
+MH660141.1  Salix purpurea voucher Q750 maturase K (matK) gene, partial cds; 	MH660141 	Salix purpurea 	Gunneridae	1	798	798
+MH660251.1  Salix fargesii voucher Q879 maturase K (matK) gene, partial cds; 	MH660251 	Salix fargesii 	Gunneridae	1	805	805
+MH768816.1  Populus davidiana isolate H1 maturase K (matk) gene, partial cds; 	MH768816 	Populus davidiana 	Salicaceae	1	717	717
+MH768818.1  Populus davidiana isolate H3 maturase K (matk) gene, partial cds; 	MH768818 	Populus davidiana 	Salicaceae	1	717	717
+MH768840.1  Populus davidiana isolate H25 maturase K (matk) gene, partial cds; 	MH768840 	Populus davidiana 	Salicaceae	1	717	717
+MH768846.1  Populus davidiana isolate H31 maturase K (matk) gene, partial cds; 	MH768846 	Populus davidiana 	Salicaceae	1	717	717
+MK290536.1  Trimeria grandifolia isolate UHURU1734-17 maturase K (matK) gene, 	MK290536 	Trimeria grandifolia 	Salicaceae	1	772	772
+MK520460.1  Populus alba voucher v0055096WIS maturase K (matK) gene, partial 	MK520460 	Populus alba 	Salicaceae	1	794	794
+MK520461.1  Populus balsamifera voucher v0102670WIS maturase K (matK) gene, 	MK520461 	Populus balsamifera 	Salicaceae	1	794	794
+MK520463.1  Populus grandidentata voucher v0208115WIS maturase K (matK) gene, 	MK520463 	Populus grandidentata 	Salicaceae	1	794	794
+MK520464.1  Populus nigra voucher v0103512WIS maturase K (matK) gene, partial 	MK520464 	Populus nigra 	Salicaceae	1	781	781
+MK520465.1  Populus tremuloides voucher v0104807WIS maturase K (matK) gene, 	MK520465 	Populus tremuloides 	Salicaceae	1	794	794
+MK520588.1  Salix alba voucher v0178533WIS maturase K (matK) gene, partial cds; 	MK520588 	Salix alba 	Salicaceae	1	794	794
+MK520589.1  Salix amygdaloides voucher v0178781WIS maturase K (matK) gene, 	MK520589 	Salix amygdaloides 	Salicaceae	1	794	794
+MK520590.1  Salix bebbiana voucher v0105474WIS maturase K (matK) gene, partial 	MK520590 	Salix bebbiana 	Salicaceae	1	794	794
+MK520592.1  Salix humilis voucher v0106499WIS maturase K (matK) gene, partial 	MK520592 	Salix humilis 	Salicaceae	1	794	794
+MK520594.1  Salix nigra voucher v0104288WIS maturase K (matK) gene, partial cds; 	MK520594 	Salix nigra 	Salicaceae	1	794	794
+MK520595.1  Salix pedicellaris voucher v0104164WIS maturase K (matK) gene, 	MK520595 	Salix pedicellaris 	Salicaceae	1	790	790
+MK520596.1  Salix pentandra voucher v0104193WIS maturase K (matK) gene, partial 	MK520596 	Salix pentandra 	Salicaceae	1	794	794
+MK800574.1  Salix arctica voucher ID:169398 maturase K (matK) gene, partial cds; 	MK800574 	Salix arctica 	Gunneridae	1	696	696
+MK898799.1  Populus deltoides maturase K (matK) gene, partial cds; chloroplast. 	MK898799 	Populus deltoides 	Salicaceae	1	422	422
+MK925599.1  Salix arbuscula voucher NMW7874 maturase K (matK) gene, partial cds; 	MK925599 	Salix arbuscula 	Gunneridae	1	789	789
+MK925728.1  Salix myrsinifolia voucher NMW7822 maturase K (matK) gene, partial 	MK925728 	Salix myrsinifolia 	Gunneridae	1	795	795
+MK925761.1  Salix herbacea voucher RBGE196 maturase K (matK) gene, partial cds; 	MK925761 	Salix herbacea 	Gunneridae	1	798	798
+MK925784.1  Salix phylicifolia voucher NMW7829 maturase K (matK) gene, partial 	MK925784 	Salix phylicifolia 	Gunneridae	1	758	758
+MK925826.1  Salix reticulata voucher NMW7831 maturase K (matK) gene, partial 	MK925826 	Salix reticulata 	Gunneridae	1	774	774
+MK925997.1  Salix myrsinites voucher NMW7827 maturase K (matK) gene, partial 	MK925997 	Salix myrsinites 	Gunneridae	1	784	784
+MK926050.1  Salix arbuscula voucher NMW7814 maturase K (matK) gene, partial cds; 	MK926050 	Salix arbuscula 	Gunneridae	1	792	792
+MK926154.1  Salix herbacea voucher RBGE195 maturase K (matK) gene, partial cds; 	MK926154 	Salix herbacea 	Gunneridae	1	793	793
+MK926195.1  Salix reticulata voucher RBGE355 maturase K (matK) gene, partial 	MK926195 	Salix reticulata 	Gunneridae	1	818	818
+MK926272.1  Salix lanata voucher NMW7818 maturase K (matK) gene, partial cds; 	MK926272 	Salix lanata 	Gunneridae	1	809	809
+MK926281.1  Salix arbuscula voucher NMW7815 maturase K (matK) gene, partial cds; 	MK926281 	Salix arbuscula 	Gunneridae	1	778	778
+MK926323.1  Salix myrsinites voucher NMW7825 maturase K (matK) gene, partial 	MK926323 	Salix myrsinites 	Gunneridae	1	783	783
+MK926394.1  Salix myrsinifolia voucher NMW7823 maturase K (matK) gene, partial 	MK926394 	Salix myrsinifolia 	Gunneridae	1	903	903
+MN243298.1  Flacourtia sp. CP333 maturase K (matK) gene, partial cds; 	MN243298 	Flacourtia sp. CP333 	Gunneridae	1	857	857
+MN370125.1  Homalium africanum voucher IDRCG860-13_FHO_PS3608 maturase K (matK) 	MN370125 	Homalium africanum 	Gunneridae	1	804	804
+MN370127.1  Homalium stipulaceum voucher IDRCG865-13_FHO_EP4396 maturase K 	MN370127 	Homalium stipulaceum 	Gunneridae	1	804	804
+MN370128.1  Homalium smythei voucher IDRCG864-13_FHO_CY526 maturase K (matK) 	MN370128 	Homalium smythei 	Gunneridae	1	804	804
+MN370233.1  Oncoba flagelliflora voucher GIL4_491_6384AA maturase K (matK) gene, 	MN370233 	Oncoba flagelliflora 	Gunneridae	1	792	792
+MN722150.1  Salix cheilophila voucher P. L. Liu 220 maturase K (matK) gene, 	MN722150 	Salix cheilophila 	Gunneridae	1	847	847
+MN722153.1  Salix matsudana voucher P. L. Liu YC70 maturase K (matK) gene, 	MN722153 	Salix matsudana 	Gunneridae	1	801	801
+MN722154.1  Populus simonii voucher T. T. Tian 4 maturase K (matK) gene, partial 	MN722154 	Populus simonii 	Gunneridae	1	773	773
+MN722155.1  Populus pseudosimonii voucher T. T. Tian 40 maturase K (matK) gene, 	MN722155 	Populus pseudosimonii 	Gunneridae	1	823	823
+MN722156.1  Populus davidiana voucher T. T. Tian 39 maturase K (matK) gene, 	MN722156 	Populus davidiana 	Gunneridae	1	814	814
+MT901723.1  Salix cinerea isolate DM633_1 chloroplast, partial genome. 	MT901723 	Salix cinerea 	Gunneridae	4721	5503	783
